@@ -1,0 +1,33 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    ports:
+      - "${DB_PORT}:${DB_PORT}"
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME}
+      MYSQL_USER: ${DB_USER}
+    volumes:
+      - dbdata:/var/lib/mysql
+  app:
+    container_name: app
+    env_file:
+      - .env
+    image: iotuppgift2
+    ports:
+      - 8080:8080
+    working_dir: /app
+  broker:
+    container_name: broker
+    image: eclipse-mosquitto
+    ports:
+      - ${BROKER_PORT}:1883
+      - 9001:9001
+    volumes:
+      - ./mosquitto/data:/mosquitto/data:delegated
+      - ./mosquitto/log:/mosquitto/log:delegated
+      - ./mosquitto/config:/mosquitto/config:delegated
+volumes:
+  dbdata:

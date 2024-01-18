@@ -1,0 +1,1922 @@
+1704284582: mosquitto version 2.0.18 starting
+1704284582: Config loaded from /mosquitto/config/mosquitto.conf.
+1704284582: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1704284582: Create a configuration file which defines a listener to allow remote access.
+1704284582: For more details see https://mosquitto.org/documentation/authentication-methods/
+1704284582: Opening ipv4 listen socket on port 1883.
+1704284582: Opening ipv6 listen socket on port 1883.
+1704284582: Error: Address not available
+1704284582: mosquitto version 2.0.18 running
+1704285814: mosquitto version 2.0.18 terminating
+1704285814: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704285819: mosquitto version 2.0.18 starting
+1704285819: Config loaded from /mosquitto/config/mosquitto.conf.
+1704285819: Opening ipv4 listen socket on port 1883.
+1704285819: Opening ipv6 listen socket on port 1883.
+1704285819: mosquitto version 2.0.18 running
+1704285823: New connection from 172.21.0.1:46384 on port 1883.
+1704285823: Client mymqtt-355713022734663 disconnected, not authorised.
+1704285823: New connection from 172.21.0.1:46392 on port 1883.
+1704285823: New connection from 172.21.0.1:46396 on port 1883.
+1704285823: New connection from 172.21.0.1:46400 on port 1883.
+1704285823: New connection from 172.21.0.1:46402 on port 1883.
+1704285823: New connection from 172.21.0.1:46404 on port 1883.
+1704285823: New connection from 172.21.0.1:46406 on port 1883.
+1704285823: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285823: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285823: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285823: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285823: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285823: Client mymqtt-355712044766047 disconnected, not authorised.
+1704285824: New connection from 172.21.0.1:46418 on port 1883.
+1704285824: New connection from 172.21.0.1:46420 on port 1883.
+1704285824: New connection from 172.21.0.1:46424 on port 1883.
+1704285824: New connection from 172.21.0.1:46422 on port 1883.
+1704285824: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285824: Client mymqtt-355712044766047 disconnected, not authorised.
+1704285824: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285824: New connection from 172.21.0.1:46428 on port 1883.
+1704285824: New connection from 172.21.0.1:46426 on port 1883.
+1704285824: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285824: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285824: Client mymqtt-355713022734663 disconnected, not authorised.
+1704285824: New connection from 172.21.0.1:46430 on port 1883.
+1704285824: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285825: New connection from 172.21.0.1:46446 on port 1883.
+1704285825: New connection from 172.21.0.1:46444 on port 1883.
+1704285825: New connection from 172.21.0.1:46448 on port 1883.
+1704285825: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285825: Client mymqtt-355712044766047 disconnected, not authorised.
+1704285825: New connection from 172.21.0.1:46450 on port 1883.
+1704285825: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285825: New connection from 172.21.0.1:46452 on port 1883.
+1704285825: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285825: New connection from 172.21.0.1:46454 on port 1883.
+1704285825: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285825: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285825: New connection from 172.21.0.1:46456 on port 1883.
+1704285825: Client mymqtt-355713022734663 disconnected, not authorised.
+1704285826: New connection from 172.21.0.1:46466 on port 1883.
+1704285826: New connection from 172.21.0.1:46468 on port 1883.
+1704285826: New connection from 172.21.0.1:46470 on port 1883.
+1704285826: Client mymqtt-355712044766047 disconnected, not authorised.
+1704285826: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285826: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285826: New connection from 172.21.0.1:46476 on port 1883.
+1704285826: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285826: New connection from 172.21.0.1:46478 on port 1883.
+1704285826: New connection from 172.21.0.1:46480 on port 1883.
+1704285826: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285826: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285826: New connection from 172.21.0.1:46484 on port 1883.
+1704285826: Client mymqtt-355713022734663 disconnected, not authorised.
+1704285827: New connection from 172.21.0.1:46488 on port 1883.
+1704285827: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285827: New connection from 172.21.0.1:46496 on port 1883.
+1704285827: New connection from 172.21.0.1:46500 on port 1883.
+1704285827: New connection from 172.21.0.1:46502 on port 1883.
+1704285827: New connection from 172.21.0.1:46504 on port 1883.
+1704285827: New connection from 172.21.0.1:46506 on port 1883.
+1704285827: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285827: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285827: Client mymqtt-355712044766047 disconnected, not authorised.
+1704285827: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285827: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285827: New connection from 172.21.0.1:46510 on port 1883.
+1704285827: Client mymqtt-355713022734663 disconnected, not authorised.
+1704285827: New connection from 172.21.0.1:46512 on port 1883.
+1704285827: Client mymqtt-355938806038907 disconnected, not authorised.
+1704285828: New connection from 172.21.0.1:46516 on port 1883.
+1704285828: New connection from 172.21.0.1:46520 on port 1883.
+1704285828: New connection from 172.21.0.1:46518 on port 1883.
+1704285828: New connection from 172.21.0.1:46526 on port 1883.
+1704285828: New connection from 172.21.0.1:46530 on port 1883.
+1704285828: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285828: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285828: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285828: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285828: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285829: New connection from 172.21.0.1:46540 on port 1883.
+1704285829: New connection from 172.21.0.1:46542 on port 1883.
+1704285829: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285829: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285829: New connection from 172.21.0.1:46546 on port 1883.
+1704285829: New connection from 172.21.0.1:46548 on port 1883.
+1704285829: New connection from 172.21.0.1:46550 on port 1883.
+1704285829: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285829: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285829: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285830: New connection from 172.21.0.1:46552 on port 1883.
+1704285830: Client mymqtt-355941085190061 disconnected, not authorised.
+1704285830: New connection from 172.21.0.1:46554 on port 1883.
+1704285830: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285830: New connection from 172.21.0.1:46556 on port 1883.
+1704285830: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285830: New connection from 172.21.0.1:46566 on port 1883.
+1704285830: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285830: New connection from 172.21.0.1:46568 on port 1883.
+1704285830: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285830: New connection from 172.21.0.1:46570 on port 1883.
+1704285830: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285831: New connection from 172.21.0.1:46572 on port 1883.
+1704285831: New connection from 172.21.0.1:46574 on port 1883.
+1704285831: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285831: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285831: New connection from 172.21.0.1:46584 on port 1883.
+1704285831: New connection from 172.21.0.1:46586 on port 1883.
+1704285831: New connection from 172.21.0.1:46588 on port 1883.
+1704285831: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285831: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285831: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285832: New connection from 172.21.0.1:46590 on port 1883.
+1704285832: New connection from 172.21.0.1:46592 on port 1883.
+1704285832: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285832: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285832: New connection from 172.21.0.1:46602 on port 1883.
+1704285832: New connection from 172.21.0.1:46604 on port 1883.
+1704285832: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285832: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285832: New connection from 172.21.0.1:46606 on port 1883.
+1704285832: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285833: New connection from 172.21.0.1:46608 on port 1883.
+1704285833: New connection from 172.21.0.1:46610 on port 1883.
+1704285833: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285833: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285833: New connection from 172.21.0.1:46618 on port 1883.
+1704285833: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285833: New connection from 172.21.0.1:46622 on port 1883.
+1704285833: New connection from 172.21.0.1:46624 on port 1883.
+1704285833: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285833: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285833: New connection from 172.21.0.1:46626 on port 1883.
+1704285833: Client mymqtt-355944425965984 disconnected, not authorised.
+1704285834: New connection from 172.21.0.1:46628 on port 1883.
+1704285834: New connection from 172.21.0.1:46634 on port 1883.
+1704285834: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285834: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285834: New connection from 172.21.0.1:46638 on port 1883.
+1704285834: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285834: New connection from 172.21.0.1:46640 on port 1883.
+1704285834: New connection from 172.21.0.1:46642 on port 1883.
+1704285834: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285834: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285835: New connection from 172.21.0.1:46650 on port 1883.
+1704285835: New connection from 172.21.0.1:46654 on port 1883.
+1704285835: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285835: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285835: New connection from 172.21.0.1:46656 on port 1883.
+1704285835: New connection from 172.21.0.1:46658 on port 1883.
+1704285835: New connection from 172.21.0.1:46660 on port 1883.
+1704285835: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285835: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285835: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285836: New connection from 172.21.0.1:46664 on port 1883.
+1704285836: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285836: New connection from 172.21.0.1:46668 on port 1883.
+1704285836: New connection from 172.21.0.1:46670 on port 1883.
+1704285836: New connection from 172.21.0.1:46672 on port 1883.
+1704285836: New connection from 172.21.0.1:46678 on port 1883.
+1704285836: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285836: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285836: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285836: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285837: New connection from 172.21.0.1:46684 on port 1883.
+1704285837: New connection from 172.21.0.1:46682 on port 1883.
+1704285837: New connection from 172.21.0.1:46688 on port 1883.
+1704285837: New connection from 172.21.0.1:46690 on port 1883.
+1704285837: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285837: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285837: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285837: New connection from 172.21.0.1:46694 on port 1883.
+1704285837: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285837: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285838: New connection from 172.21.0.1:46700 on port 1883.
+1704285838: New connection from 172.21.0.1:46706 on port 1883.
+1704285838: New connection from 172.21.0.1:46704 on port 1883.
+1704285838: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285838: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285838: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285838: New connection from 172.21.0.1:46716 on port 1883.
+1704285838: New connection from 172.21.0.1:46714 on port 1883.
+1704285838: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285838: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285839: New connection from 172.21.0.1:46718 on port 1883.
+1704285839: New connection from 172.21.0.1:46720 on port 1883.
+1704285839: New connection from 172.21.0.1:46726 on port 1883.
+1704285839: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285839: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285839: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285839: New connection from 172.21.0.1:46730 on port 1883.
+1704285839: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285839: New connection from 172.21.0.1:46734 on port 1883.
+1704285839: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285840: New connection from 172.21.0.1:46740 on port 1883.
+1704285840: New connection from 172.21.0.1:46742 on port 1883.
+1704285840: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285840: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285840: New connection from 172.21.0.1:46746 on port 1883.
+1704285840: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285840: New connection from 172.21.0.1:46748 on port 1883.
+1704285840: New connection from 172.21.0.1:46754 on port 1883.
+1704285840: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285840: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285841: New connection from 172.21.0.1:46760 on port 1883.
+1704285841: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285841: New connection from 172.21.0.1:46762 on port 1883.
+1704285841: New connection from 172.21.0.1:46766 on port 1883.
+1704285841: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285841: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285841: New connection from 172.21.0.1:46772 on port 1883.
+1704285841: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285841: New connection from 172.21.0.1:46774 on port 1883.
+1704285841: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285842: New connection from 172.21.0.1:46780 on port 1883.
+1704285842: New connection from 172.21.0.1:46782 on port 1883.
+1704285842: New connection from 172.21.0.1:46784 on port 1883.
+1704285842: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285842: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285842: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285842: New connection from 172.21.0.1:46792 on port 1883.
+1704285842: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285842: New connection from 172.21.0.1:46794 on port 1883.
+1704285842: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285843: New connection from 172.21.0.1:46800 on port 1883.
+1704285843: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285843: New connection from 172.21.0.1:46804 on port 1883.
+1704285843: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285843: New connection from 172.21.0.1:46806 on port 1883.
+1704285843: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285843: New connection from 172.21.0.1:46810 on port 1883.
+1704285843: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285843: New connection from 172.21.0.1:46814 on port 1883.
+1704285843: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285844: New connection from 172.21.0.1:46820 on port 1883.
+1704285844: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285844: New connection from 172.21.0.1:46824 on port 1883.
+1704285844: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285844: New connection from 172.21.0.1:46828 on port 1883.
+1704285844: New connection from 172.21.0.1:46830 on port 1883.
+1704285844: New connection from 172.21.0.1:46834 on port 1883.
+1704285844: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285844: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285844: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285845: New connection from 172.21.0.1:46840 on port 1883.
+1704285845: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285845: New connection from 172.21.0.1:46844 on port 1883.
+1704285845: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285845: New connection from 172.21.0.1:46848 on port 1883.
+1704285845: New connection from 172.21.0.1:46846 on port 1883.
+1704285845: New connection from 172.21.0.1:46850 on port 1883.
+1704285845: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285845: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285845: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285846: New connection from 172.21.0.1:46860 on port 1883.
+1704285846: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285846: New connection from 172.21.0.1:46864 on port 1883.
+1704285846: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285846: New connection from 172.21.0.1:46866 on port 1883.
+1704285846: New connection from 172.21.0.1:46868 on port 1883.
+1704285846: New connection from 172.21.0.1:46870 on port 1883.
+1704285846: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285846: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285846: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285847: New connection from 172.21.0.1:46880 on port 1883.
+1704285847: New connection from 172.21.0.1:46882 on port 1883.
+1704285847: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285847: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285847: New connection from 172.21.0.1:46886 on port 1883.
+1704285847: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285847: New connection from 172.21.0.1:46888 on port 1883.
+1704285847: New connection from 172.21.0.1:46890 on port 1883.
+1704285847: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285847: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285848: New connection from 172.21.0.1:46900 on port 1883.
+1704285848: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285848: New connection from 172.21.0.1:46904 on port 1883.
+1704285848: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285848: New connection from 172.21.0.1:46906 on port 1883.
+1704285848: New connection from 172.21.0.1:46908 on port 1883.
+1704285848: New connection from 172.21.0.1:46912 on port 1883.
+1704285848: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285848: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285848: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285849: New connection from 172.21.0.1:46918 on port 1883.
+1704285849: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285849: New connection from 172.21.0.1:46922 on port 1883.
+1704285849: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285849: New connection from 172.21.0.1:46924 on port 1883.
+1704285849: New connection from 172.21.0.1:46930 on port 1883.
+1704285849: New connection from 172.21.0.1:46926 on port 1883.
+1704285849: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285849: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285849: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285850: New connection from 172.21.0.1:46940 on port 1883.
+1704285850: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285850: New connection from 172.21.0.1:46944 on port 1883.
+1704285850: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285850: New connection from 172.21.0.1:46946 on port 1883.
+1704285850: New connection from 172.21.0.1:46948 on port 1883.
+1704285850: New connection from 172.21.0.1:46952 on port 1883.
+1704285850: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285850: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285850: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285851: New connection from 172.21.0.1:46960 on port 1883.
+1704285851: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285851: New connection from 172.21.0.1:46964 on port 1883.
+1704285851: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285852: New connection from 172.21.0.1:46966 on port 1883.
+1704285852: New connection from 172.21.0.1:46968 on port 1883.
+1704285852: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285852: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285852: New connection from 172.21.0.1:46972 on port 1883.
+1704285852: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285852: New connection from 172.21.0.1:46982 on port 1883.
+1704285852: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285852: New connection from 172.21.0.1:46984 on port 1883.
+1704285852: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285853: New connection from 172.21.0.1:46986 on port 1883.
+1704285853: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285853: New connection from 172.21.0.1:46988 on port 1883.
+1704285853: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285853: New connection from 172.21.0.1:46992 on port 1883.
+1704285853: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285854: New connection from 172.21.0.1:47002 on port 1883.
+1704285854: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285854: New connection from 172.21.0.1:47004 on port 1883.
+1704285854: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285854: New connection from 172.21.0.1:47006 on port 1883.
+1704285854: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285854: New connection from 172.21.0.1:47008 on port 1883.
+1704285854: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285854: New connection from 172.21.0.1:47012 on port 1883.
+1704285854: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285854: New connection from 172.21.0.1:47018 on port 1883.
+1704285854: Client mymqtt-355965552749140 disconnected, not authorised.
+1704285855: New connection from 172.21.0.1:47022 on port 1883.
+1704285855: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285855: New connection from 172.21.0.1:47026 on port 1883.
+1704285855: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285855: New connection from 172.21.0.1:47028 on port 1883.
+1704285855: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285855: New connection from 172.21.0.1:47030 on port 1883.
+1704285855: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285855: New connection from 172.21.0.1:47034 on port 1883.
+1704285855: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285856: New connection from 172.21.0.1:47042 on port 1883.
+1704285856: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285856: New connection from 172.21.0.1:47044 on port 1883.
+1704285856: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285856: New connection from 172.21.0.1:47046 on port 1883.
+1704285856: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285856: New connection from 172.21.0.1:47048 on port 1883.
+1704285856: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285856: New connection from 172.21.0.1:47052 on port 1883.
+1704285856: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285857: New connection from 172.21.0.1:47058 on port 1883.
+1704285857: New connection from 172.21.0.1:47062 on port 1883.
+1704285857: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285857: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285857: New connection from 172.21.0.1:47064 on port 1883.
+1704285857: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285857: New connection from 172.21.0.1:47068 on port 1883.
+1704285857: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285857: New connection from 172.21.0.1:47070 on port 1883.
+1704285857: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285857: New connection from 172.21.0.1:47074 on port 1883.
+1704285857: Client mymqtt-355968387841140 disconnected, not authorised.
+1704285858: New connection from 172.21.0.1:47078 on port 1883.
+1704285858: New connection from 172.21.0.1:47082 on port 1883.
+1704285858: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285858: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285858: New connection from 172.21.0.1:47084 on port 1883.
+1704285858: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285858: New connection from 172.21.0.1:47086 on port 1883.
+1704285858: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285858: New connection from 172.21.0.1:47090 on port 1883.
+1704285858: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285859: New connection from 172.21.0.1:47096 on port 1883.
+1704285859: New connection from 172.21.0.1:47100 on port 1883.
+1704285859: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285859: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285859: New connection from 172.21.0.1:47102 on port 1883.
+1704285859: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285859: New connection from 172.21.0.1:47104 on port 1883.
+1704285859: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285859: New connection from 172.21.0.1:47108 on port 1883.
+1704285859: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285860: New connection from 172.21.0.1:47116 on port 1883.
+1704285860: New connection from 172.21.0.1:47114 on port 1883.
+1704285860: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285860: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285860: New connection from 172.21.0.1:47122 on port 1883.
+1704285860: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285860: New connection from 172.21.0.1:47124 on port 1883.
+1704285860: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285860: New connection from 172.21.0.1:47130 on port 1883.
+1704285860: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285861: New connection from 172.21.0.1:47134 on port 1883.
+1704285861: New connection from 172.21.0.1:47136 on port 1883.
+1704285861: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285861: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285861: New connection from 172.21.0.1:47140 on port 1883.
+1704285861: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285861: New connection from 172.21.0.1:47142 on port 1883.
+1704285861: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285861: New connection from 172.21.0.1:47146 on port 1883.
+1704285861: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285862: New connection from 172.21.0.1:47152 on port 1883.
+1704285862: New connection from 172.21.0.1:47156 on port 1883.
+1704285862: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285862: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285862: New connection from 172.21.0.1:47158 on port 1883.
+1704285862: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285862: New connection from 172.21.0.1:47160 on port 1883.
+1704285862: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285862: New connection from 172.21.0.1:47164 on port 1883.
+1704285862: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285863: New connection from 172.21.0.1:47170 on port 1883.
+1704285863: New connection from 172.21.0.1:47174 on port 1883.
+1704285863: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285863: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285863: New connection from 172.21.0.1:47176 on port 1883.
+1704285863: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285863: New connection from 172.21.0.1:47180 on port 1883.
+1704285863: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285863: New connection from 172.21.0.1:47182 on port 1883.
+1704285863: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285864: New connection from 172.21.0.1:47188 on port 1883.
+1704285864: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285864: New connection from 172.21.0.1:47192 on port 1883.
+1704285864: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285864: New connection from 172.21.0.1:47194 on port 1883.
+1704285864: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285864: New connection from 172.21.0.1:47198 on port 1883.
+1704285864: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285864: New connection from 172.21.0.1:47200 on port 1883.
+1704285864: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285865: New connection from 172.21.0.1:47204 on port 1883.
+1704285865: New connection from 172.21.0.1:47206 on port 1883.
+1704285865: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285865: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285865: New connection from 172.21.0.1:47212 on port 1883.
+1704285865: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285865: New connection from 172.21.0.1:47216 on port 1883.
+1704285865: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285865: New connection from 172.21.0.1:47220 on port 1883.
+1704285865: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285866: New connection from 172.21.0.1:47224 on port 1883.
+1704285866: New connection from 172.21.0.1:47228 on port 1883.
+1704285866: New connection from 172.21.0.1:47230 on port 1883.
+1704285866: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285866: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285866: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285866: New connection from 172.21.0.1:47234 on port 1883.
+1704285866: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285866: New connection from 172.21.0.1:47238 on port 1883.
+1704285866: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285867: New connection from 172.21.0.1:47240 on port 1883.
+1704285867: New connection from 172.21.0.1:47246 on port 1883.
+1704285867: New connection from 172.21.0.1:47248 on port 1883.
+1704285867: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285867: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285867: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285867: New connection from 172.21.0.1:47252 on port 1883.
+1704285867: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285867: New connection from 172.21.0.1:47254 on port 1883.
+1704285867: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285868: New connection from 172.21.0.1:47260 on port 1883.
+1704285868: New connection from 172.21.0.1:47264 on port 1883.
+1704285868: New connection from 172.21.0.1:47268 on port 1883.
+1704285868: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285868: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285868: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285868: New connection from 172.21.0.1:47270 on port 1883.
+1704285868: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285868: New connection from 172.21.0.1:47272 on port 1883.
+1704285868: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285869: New connection from 172.21.0.1:47278 on port 1883.
+1704285869: New connection from 172.21.0.1:47276 on port 1883.
+1704285869: New connection from 172.21.0.1:47282 on port 1883.
+1704285869: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285869: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285869: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285869: New connection from 172.21.0.1:47286 on port 1883.
+1704285869: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285869: New connection from 172.21.0.1:47290 on port 1883.
+1704285869: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285870: New connection from 172.21.0.1:47292 on port 1883.
+1704285870: New connection from 172.21.0.1:47294 on port 1883.
+1704285870: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285870: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285870: New connection from 172.21.0.1:47300 on port 1883.
+1704285870: New connection from 172.21.0.1:47302 on port 1883.
+1704285870: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285870: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285870: New connection from 172.21.0.1:47304 on port 1883.
+1704285870: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285871: New connection from 172.21.0.1:47310 on port 1883.
+1704285871: New connection from 172.21.0.1:47314 on port 1883.
+1704285871: New connection from 172.21.0.1:47318 on port 1883.
+1704285871: New connection from 172.21.0.1:47316 on port 1883.
+1704285871: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285871: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285871: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285871: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285871: New connection from 172.21.0.1:47322 on port 1883.
+1704285871: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285872: New connection from 172.21.0.1:47326 on port 1883.
+1704285872: New connection from 172.21.0.1:47328 on port 1883.
+1704285872: New connection from 172.21.0.1:47332 on port 1883.
+1704285872: New connection from 172.21.0.1:47334 on port 1883.
+1704285872: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285872: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285872: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285872: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285872: New connection from 172.21.0.1:47342 on port 1883.
+1704285872: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285873: New connection from 172.21.0.1:47346 on port 1883.
+1704285873: New connection from 172.21.0.1:47356 on port 1883.
+1704285873: New connection from 172.21.0.1:47350 on port 1883.
+1704285873: New connection from 172.21.0.1:47352 on port 1883.
+1704285873: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285873: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285873: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285873: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285873: New connection from 172.21.0.1:47362 on port 1883.
+1704285873: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285874: New connection from 172.21.0.1:47368 on port 1883.
+1704285874: New connection from 172.21.0.1:47370 on port 1883.
+1704285874: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285874: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285874: New connection from 172.21.0.1:47372 on port 1883.
+1704285874: New connection from 172.21.0.1:47374 on port 1883.
+1704285874: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285874: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285874: New connection from 172.21.0.1:47382 on port 1883.
+1704285874: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285875: New connection from 172.21.0.1:47384 on port 1883.
+1704285875: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285875: New connection from 172.21.0.1:47388 on port 1883.
+1704285875: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285875: New connection from 172.21.0.1:47390 on port 1883.
+1704285875: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285875: New connection from 172.21.0.1:47392 on port 1883.
+1704285875: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285875: New connection from 172.21.0.1:47400 on port 1883.
+1704285875: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285876: New connection from 172.21.0.1:47402 on port 1883.
+1704285876: New connection from 172.21.0.1:47406 on port 1883.
+1704285876: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285876: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285876: New connection from 172.21.0.1:47408 on port 1883.
+1704285876: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285876: New connection from 172.21.0.1:47410 on port 1883.
+1704285876: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285876: New connection from 172.21.0.1:47418 on port 1883.
+1704285876: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285877: New connection from 172.21.0.1:47420 on port 1883.
+1704285877: New connection from 172.21.0.1:47422 on port 1883.
+1704285877: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285877: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285877: New connection from 172.21.0.1:47426 on port 1883.
+1704285877: New connection from 172.21.0.1:47428 on port 1883.
+1704285877: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285877: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285877: New connection from 172.21.0.1:47436 on port 1883.
+1704285877: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285878: New connection from 172.21.0.1:47438 on port 1883.
+1704285878: New connection from 172.21.0.1:47440 on port 1883.
+1704285878: New connection from 172.21.0.1:47446 on port 1883.
+1704285878: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285878: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285878: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285878: New connection from 172.21.0.1:47448 on port 1883.
+1704285878: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285878: New connection from 172.21.0.1:47454 on port 1883.
+1704285878: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285879: New connection from 172.21.0.1:47456 on port 1883.
+1704285879: New connection from 172.21.0.1:47458 on port 1883.
+1704285879: New connection from 172.21.0.1:47466 on port 1883.
+1704285879: New connection from 172.21.0.1:47464 on port 1883.
+1704285879: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285879: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285879: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285879: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285879: New connection from 172.21.0.1:47472 on port 1883.
+1704285879: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285880: New connection from 172.21.0.1:47474 on port 1883.
+1704285880: New connection from 172.21.0.1:47478 on port 1883.
+1704285880: New connection from 172.21.0.1:47480 on port 1883.
+1704285880: New connection from 172.21.0.1:47482 on port 1883.
+1704285880: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285880: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285880: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285880: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285880: New connection from 172.21.0.1:47488 on port 1883.
+1704285880: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285881: New connection from 172.21.0.1:47492 on port 1883.
+1704285881: New connection from 172.21.0.1:47494 on port 1883.
+1704285881: New connection from 172.21.0.1:47496 on port 1883.
+1704285881: New connection from 172.21.0.1:47506 on port 1883.
+1704285881: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285881: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285881: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285881: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285882: New connection from 172.21.0.1:47512 on port 1883.
+1704285882: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285882: New connection from 172.21.0.1:47524 on port 1883.
+1704285882: New connection from 172.21.0.1:47516 on port 1883.
+1704285882: New connection from 172.21.0.1:47518 on port 1883.
+1704285882: New connection from 172.21.0.1:47526 on port 1883.
+1704285882: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285882: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285882: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285882: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285883: New connection from 172.21.0.1:47534 on port 1883.
+1704285883: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285883: New connection from 172.21.0.1:47536 on port 1883.
+1704285883: New connection from 172.21.0.1:47540 on port 1883.
+1704285883: New connection from 172.21.0.1:47542 on port 1883.
+1704285883: New connection from 172.21.0.1:47544 on port 1883.
+1704285883: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285883: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285883: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285883: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285884: New connection from 172.21.0.1:47550 on port 1883.
+1704285884: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285884: New connection from 172.21.0.1:47556 on port 1883.
+1704285884: New connection from 172.21.0.1:47560 on port 1883.
+1704285884: New connection from 172.21.0.1:47554 on port 1883.
+1704285884: New connection from 172.21.0.1:47562 on port 1883.
+1704285884: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285884: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285884: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285885: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285885: New connection from 172.21.0.1:47570 on port 1883.
+1704285885: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285886: New connection from 172.21.0.1:47574 on port 1883.
+1704285886: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285886: New connection from 172.21.0.1:47578 on port 1883.
+1704285886: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285886: New connection from 172.21.0.1:47580 on port 1883.
+1704285886: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285886: New connection from 172.21.0.1:47586 on port 1883.
+1704285886: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285886: New connection from 172.21.0.1:47588 on port 1883.
+1704285886: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285887: New connection from 172.21.0.1:47594 on port 1883.
+1704285887: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285887: New connection from 172.21.0.1:47596 on port 1883.
+1704285887: New connection from 172.21.0.1:47600 on port 1883.
+1704285887: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285887: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285887: New connection from 172.21.0.1:47604 on port 1883.
+1704285887: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285887: New connection from 172.21.0.1:47608 on port 1883.
+1704285887: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285888: New connection from 172.21.0.1:47610 on port 1883.
+1704285888: New connection from 172.21.0.1:47612 on port 1883.
+1704285888: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285888: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285888: New connection from 172.21.0.1:47622 on port 1883.
+1704285888: New connection from 172.21.0.1:47620 on port 1883.
+1704285888: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285888: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285888: New connection from 172.21.0.1:47628 on port 1883.
+1704285888: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285889: New connection from 172.21.0.1:47630 on port 1883.
+1704285889: New connection from 172.21.0.1:47632 on port 1883.
+1704285889: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285889: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285889: New connection from 172.21.0.1:47640 on port 1883.
+1704285889: New connection from 172.21.0.1:47638 on port 1883.
+1704285889: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285889: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285889: New connection from 172.21.0.1:47646 on port 1883.
+1704285889: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285890: New connection from 172.21.0.1:47652 on port 1883.
+1704285890: New connection from 172.21.0.1:47656 on port 1883.
+1704285890: New connection from 172.21.0.1:47658 on port 1883.
+1704285890: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285890: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285890: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285890: New connection from 172.21.0.1:47660 on port 1883.
+1704285890: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285890: New connection from 172.21.0.1:47664 on port 1883.
+1704285890: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285891: New connection from 172.21.0.1:47666 on port 1883.
+1704285891: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285891: New connection from 172.21.0.1:47674 on port 1883.
+1704285891: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285891: New connection from 172.21.0.1:47676 on port 1883.
+1704285891: New connection from 172.21.0.1:47678 on port 1883.
+1704285891: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285891: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285891: New connection from 172.21.0.1:47682 on port 1883.
+1704285891: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285892: New connection from 172.21.0.1:47690 on port 1883.
+1704285892: New connection from 172.21.0.1:47692 on port 1883.
+1704285892: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285892: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285892: New connection from 172.21.0.1:47694 on port 1883.
+1704285892: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285892: New connection from 172.21.0.1:47696 on port 1883.
+1704285892: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285892: New connection from 172.21.0.1:47700 on port 1883.
+1704285892: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285893: New connection from 172.21.0.1:47702 on port 1883.
+1704285893: New connection from 172.21.0.1:47704 on port 1883.
+1704285893: New connection from 172.21.0.1:47708 on port 1883.
+1704285893: New connection from 172.21.0.1:47714 on port 1883.
+1704285893: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285893: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285893: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285893: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285893: New connection from 172.21.0.1:47718 on port 1883.
+1704285893: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285894: New connection from 172.21.0.1:47720 on port 1883.
+1704285894: New connection from 172.21.0.1:47724 on port 1883.
+1704285894: New connection from 172.21.0.1:47728 on port 1883.
+1704285894: New connection from 172.21.0.1:47730 on port 1883.
+1704285894: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285894: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285894: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285894: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285894: New connection from 172.21.0.1:47736 on port 1883.
+1704285894: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285895: New connection from 172.21.0.1:47740 on port 1883.
+1704285895: New connection from 172.21.0.1:47742 on port 1883.
+1704285895: New connection from 172.21.0.1:47738 on port 1883.
+1704285895: New connection from 172.21.0.1:47748 on port 1883.
+1704285895: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285895: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285895: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285895: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285895: New connection from 172.21.0.1:47754 on port 1883.
+1704285895: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285896: New connection from 172.21.0.1:47756 on port 1883.
+1704285896: New connection from 172.21.0.1:47758 on port 1883.
+1704285896: New connection from 172.21.0.1:47762 on port 1883.
+1704285896: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285896: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285896: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285896: New connection from 172.21.0.1:47766 on port 1883.
+1704285896: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285896: New connection from 172.21.0.1:47772 on port 1883.
+1704285896: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285897: New connection from 172.21.0.1:47776 on port 1883.
+1704285897: New connection from 172.21.0.1:47774 on port 1883.
+1704285897: New connection from 172.21.0.1:47782 on port 1883.
+1704285897: New connection from 172.21.0.1:47784 on port 1883.
+1704285897: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285897: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285897: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285897: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285897: New connection from 172.21.0.1:47790 on port 1883.
+1704285897: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285898: New connection from 172.21.0.1:47796 on port 1883.
+1704285898: New connection from 172.21.0.1:47798 on port 1883.
+1704285898: New connection from 172.21.0.1:47794 on port 1883.
+1704285898: New connection from 172.21.0.1:47802 on port 1883.
+1704285898: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285898: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285898: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285898: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285898: New connection from 172.21.0.1:47808 on port 1883.
+1704285898: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285899: New connection from 172.21.0.1:47814 on port 1883.
+1704285899: New connection from 172.21.0.1:47812 on port 1883.
+1704285899: New connection from 172.21.0.1:47818 on port 1883.
+1704285899: New connection from 172.21.0.1:47824 on port 1883.
+1704285899: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285899: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285899: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285899: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285899: New connection from 172.21.0.1:47828 on port 1883.
+1704285899: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285900: New connection from 172.21.0.1:47830 on port 1883.
+1704285900: New connection from 172.21.0.1:47838 on port 1883.
+1704285900: New connection from 172.21.0.1:47836 on port 1883.
+1704285900: New connection from 172.21.0.1:47842 on port 1883.
+1704285900: New connection from 172.21.0.1:47844 on port 1883.
+1704285900: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285900: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285900: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285900: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285900: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285901: New connection from 172.21.0.1:47848 on port 1883.
+1704285901: New connection from 172.21.0.1:47854 on port 1883.
+1704285901: New connection from 172.21.0.1:47858 on port 1883.
+1704285901: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285901: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285901: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285901: New connection from 172.21.0.1:47862 on port 1883.
+1704285901: New connection from 172.21.0.1:47864 on port 1883.
+1704285901: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285901: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285902: New connection from 172.21.0.1:47868 on port 1883.
+1704285902: New connection from 172.21.0.1:47870 on port 1883.
+1704285902: New connection from 172.21.0.1:47874 on port 1883.
+1704285902: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285902: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285902: New connection from 172.21.0.1:47880 on port 1883.
+1704285902: New connection from 172.21.0.1:47882 on port 1883.
+1704285902: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285902: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285902: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285903: New connection from 172.21.0.1:47886 on port 1883.
+1704285903: New connection from 172.21.0.1:47890 on port 1883.
+1704285903: New connection from 172.21.0.1:47896 on port 1883.
+1704285903: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285903: New connection from 172.21.0.1:47898 on port 1883.
+1704285903: New connection from 172.21.0.1:47900 on port 1883.
+1704285903: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285903: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285903: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285903: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285904: New connection from 172.21.0.1:47902 on port 1883.
+1704285904: New connection from 172.21.0.1:47906 on port 1883.
+1704285904: New connection from 172.21.0.1:47912 on port 1883.
+1704285904: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285904: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285904: New connection from 172.21.0.1:47914 on port 1883.
+1704285904: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285904: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285904: New connection from 172.21.0.1:47918 on port 1883.
+1704285904: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285905: New connection from 172.21.0.1:47922 on port 1883.
+1704285905: New connection from 172.21.0.1:47926 on port 1883.
+1704285905: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285905: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285905: New connection from 172.21.0.1:47930 on port 1883.
+1704285905: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285905: New connection from 172.21.0.1:47932 on port 1883.
+1704285905: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285905: New connection from 172.21.0.1:47936 on port 1883.
+1704285905: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285906: New connection from 172.21.0.1:47938 on port 1883.
+1704285906: New connection from 172.21.0.1:47940 on port 1883.
+1704285906: New connection from 172.21.0.1:47942 on port 1883.
+1704285906: New connection from 172.21.0.1:47950 on port 1883.
+1704285906: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285906: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285906: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285906: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285906: New connection from 172.21.0.1:47952 on port 1883.
+1704285906: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285907: New connection from 172.21.0.1:47956 on port 1883.
+1704285907: New connection from 172.21.0.1:47964 on port 1883.
+1704285907: New connection from 172.21.0.1:47962 on port 1883.
+1704285907: New connection from 172.21.0.1:47972 on port 1883.
+1704285907: New connection from 172.21.0.1:47970 on port 1883.
+1704285907: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285907: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285907: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285907: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285907: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285908: New connection from 172.21.0.1:47976 on port 1883.
+1704285908: New connection from 172.21.0.1:47978 on port 1883.
+1704285908: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285908: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285908: New connection from 172.21.0.1:47990 on port 1883.
+1704285908: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285908: New connection from 172.21.0.1:47992 on port 1883.
+1704285908: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285908: New connection from 172.21.0.1:47994 on port 1883.
+1704285908: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285909: New connection from 172.21.0.1:48002 on port 1883.
+1704285909: New connection from 172.21.0.1:48004 on port 1883.
+1704285909: New connection from 172.21.0.1:48006 on port 1883.
+1704285909: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285909: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285909: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285909: New connection from 172.21.0.1:48012 on port 1883.
+1704285909: New connection from 172.21.0.1:48014 on port 1883.
+1704285909: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285909: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285910: New connection from 172.21.0.1:48018 on port 1883.
+1704285910: New connection from 172.21.0.1:48024 on port 1883.
+1704285910: New connection from 172.21.0.1:48028 on port 1883.
+1704285910: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285910: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285910: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285910: New connection from 172.21.0.1:48030 on port 1883.
+1704285910: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285910: New connection from 172.21.0.1:48032 on port 1883.
+1704285910: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285911: New connection from 172.21.0.1:48042 on port 1883.
+1704285911: New connection from 172.21.0.1:48044 on port 1883.
+1704285912: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285912: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285912: New connection from 172.21.0.1:48046 on port 1883.
+1704285912: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285912: New connection from 172.21.0.1:48048 on port 1883.
+1704285912: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285912: New connection from 172.21.0.1:48050 on port 1883.
+1704285912: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285913: New connection from 172.21.0.1:48052 on port 1883.
+1704285913: New connection from 172.21.0.1:48058 on port 1883.
+1704285913: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285913: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285913: New connection from 172.21.0.1:48062 on port 1883.
+1704285913: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285913: New connection from 172.21.0.1:48066 on port 1883.
+1704285913: New connection from 172.21.0.1:48068 on port 1883.
+1704285913: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285913: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285914: New connection from 172.21.0.1:48072 on port 1883.
+1704285914: New connection from 172.21.0.1:48076 on port 1883.
+1704285914: New connection from 172.21.0.1:48080 on port 1883.
+1704285914: New connection from 172.21.0.1:48082 on port 1883.
+1704285914: Client mymqtt-355714847796740 disconnected, not authorised.
+1704285914: Client mymqtt-355714663742586 disconnected, not authorised.
+1704285914: Client mymqtt-355715025956509 disconnected, not authorised.
+1704285914: Client mymqtt-355714142032201 disconnected, not authorised.
+1704285914: New connection from 172.21.0.1:48086 on port 1883.
+1704285914: Client mymqtt-355533723198575 disconnected, not authorised.
+1704285923: mosquitto version 2.0.18 terminating
+1704285923: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704285928: mosquitto version 2.0.18 starting
+1704285928: Config loaded from /mosquitto/config/mosquitto.conf.
+1704285928: Opening ipv4 listen socket on port 1883.
+1704285928: Opening ipv6 listen socket on port 1883.
+1704285928: mosquitto version 2.0.18 running
+1704285928: New connection from 172.22.0.1:48090 on port 1883.
+1704285928: New connection from 172.22.0.1:48096 on port 1883.
+1704285928: New connection from 172.22.0.1:48098 on port 1883.
+1704285928: New client connected from 172.22.0.1:48090 as mymqtt-355714847796740 (p2, c0, k60).
+1704285928: New client connected from 172.22.0.1:48096 as mymqtt-355715025956509 (p2, c0, k60).
+1704285928: New client connected from 172.22.0.1:48098 as mymqtt-355533723198575 (p2, c0, k60).
+1704285928: New connection from 172.22.0.1:48102 on port 1883.
+1704285928: New connection from 172.22.0.1:48104 on port 1883.
+1704285928: New client connected from 172.22.0.1:48102 as mymqtt-355714663742586 (p2, c0, k60).
+1704285928: New client connected from 172.22.0.1:48104 as mymqtt-355714142032201 (p2, c0, k60).
+1704285931: New connection from 172.22.0.1:48122 on port 1883.
+1704285931: New client connected from 172.22.0.1:48122 as mymqtt-356038957977913 (p5, c0, k60).
+1704286401: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704286402: New connection from 172.22.0.1:51606 on port 1883.
+1704286402: New client connected from 172.22.0.1:51606 as mymqtt-356038957977913 (p5, c1, k60).
+1704286461: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704286461: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704286461: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704286462: New connection from 172.22.0.1:51788 on port 1883.
+1704286462: New connection from 172.22.0.1:51792 on port 1883.
+1704286462: New connection from 172.22.0.1:51794 on port 1883.
+1704286462: New client connected from 172.22.0.1:51788 as mymqtt-355714142032201 (p2, c0, k60).
+1704286462: New client connected from 172.22.0.1:51792 as mymqtt-355714663742586 (p2, c0, k60).
+1704286462: New client connected from 172.22.0.1:51794 as mymqtt-355533723198575 (p2, c0, k60).
+1704286467: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704286467: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704286468: New connection from 172.22.0.1:51828 on port 1883.
+1704286468: New connection from 172.22.0.1:51832 on port 1883.
+1704286468: New client connected from 172.22.0.1:51828 as mymqtt-355715025956509 (p2, c0, k60).
+1704286468: New client connected from 172.22.0.1:51832 as mymqtt-355714847796740 (p2, c0, k60).
+1704286497: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704286498: New connection from 172.22.0.1:51926 on port 1883.
+1704286498: New client connected from 172.22.0.1:51926 as mymqtt-356038957977913 (p5, c1, k60).
+1704286557: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704286557: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704286557: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704286559: New connection from 172.22.0.1:52074 on port 1883.
+1704286559: New client connected from 172.22.0.1:52074 as mymqtt-355714663742586 (p2, c0, k60).
+1704286559: New connection from 172.22.0.1:52076 on port 1883.
+1704286559: New connection from 172.22.0.1:52078 on port 1883.
+1704286559: New client connected from 172.22.0.1:52076 as mymqtt-355533723198575 (p2, c0, k60).
+1704286559: New client connected from 172.22.0.1:52078 as mymqtt-355714142032201 (p2, c0, k60).
+1704286563: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704286563: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704286567: New connection from 172.22.0.1:52120 on port 1883.
+1704286567: New connection from 172.22.0.1:52122 on port 1883.
+1704286567: New client connected from 172.22.0.1:52120 as mymqtt-355714847796740 (p2, c0, k60).
+1704286567: New client connected from 172.22.0.1:52122 as mymqtt-355715025956509 (p2, c0, k60).
+1704286593: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704286595: New connection from 172.22.0.1:52180 on port 1883.
+1704286595: New client connected from 172.22.0.1:52180 as mymqtt-356038957977913 (p5, c1, k60).
+1704286653: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704286653: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704286653: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704286655: New connection from 172.22.0.1:52440 on port 1883.
+1704286655: New connection from 172.22.0.1:52438 on port 1883.
+1704286655: New connection from 172.22.0.1:52442 on port 1883.
+1704286655: New client connected from 172.22.0.1:52440 as mymqtt-355714663742586 (p2, c0, k60).
+1704286655: New client connected from 172.22.0.1:52438 as mymqtt-355714142032201 (p2, c0, k60).
+1704286655: New client connected from 172.22.0.1:52442 as mymqtt-355533723198575 (p2, c0, k60).
+1704286659: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704286659: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704286666: New connection from 172.22.0.1:52474 on port 1883.
+1704286666: New connection from 172.22.0.1:52476 on port 1883.
+1704286666: New client connected from 172.22.0.1:52474 as mymqtt-355714847796740 (p2, c0, k60).
+1704286666: New client connected from 172.22.0.1:52476 as mymqtt-355715025956509 (p2, c0, k60).
+1704286689: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704286694: New connection from 172.22.0.1:52550 on port 1883.
+1704286694: New client connected from 172.22.0.1:52550 as mymqtt-356038957977913 (p5, c1, k60).
+1704286749: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704286749: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704286749: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704286750: New connection from 172.22.0.1:52854 on port 1883.
+1704286750: New connection from 172.22.0.1:52856 on port 1883.
+1704286750: New connection from 172.22.0.1:52858 on port 1883.
+1704286750: New client connected from 172.22.0.1:52856 as mymqtt-355714663742586 (p2, c0, k60).
+1704286750: New client connected from 172.22.0.1:52858 as mymqtt-355714142032201 (p2, c0, k60).
+1704286750: New client connected from 172.22.0.1:52854 as mymqtt-355533723198575 (p2, c0, k60).
+1704286761: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704286761: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704286762: New connection from 172.22.0.1:52954 on port 1883.
+1704286762: New connection from 172.22.0.1:52956 on port 1883.
+1704286762: New client connected from 172.22.0.1:52954 as mymqtt-355714847796740 (p2, c0, k60).
+1704286762: New client connected from 172.22.0.1:52956 as mymqtt-355715025956509 (p2, c0, k60).
+1704286785: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704286787: New connection from 172.22.0.1:53018 on port 1883.
+1704286787: New client connected from 172.22.0.1:53018 as mymqtt-356038957977913 (p5, c1, k60).
+1704286845: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704286845: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704286845: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704286847: New connection from 172.22.0.1:53306 on port 1883.
+1704286847: New connection from 172.22.0.1:53304 on port 1883.
+1704286847: New connection from 172.22.0.1:53310 on port 1883.
+1704286847: New client connected from 172.22.0.1:53306 as mymqtt-355714142032201 (p2, c0, k60).
+1704286847: New client connected from 172.22.0.1:53304 as mymqtt-355714663742586 (p2, c0, k60).
+1704286847: New client connected from 172.22.0.1:53310 as mymqtt-355533723198575 (p2, c0, k60).
+1704286857: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704286857: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704286858: New connection from 172.22.0.1:53412 on port 1883.
+1704286858: New connection from 172.22.0.1:53414 on port 1883.
+1704286858: New client connected from 172.22.0.1:53412 as mymqtt-355715025956509 (p2, c0, k60).
+1704286858: New client connected from 172.22.0.1:53414 as mymqtt-355714847796740 (p2, c0, k60).
+1704287001: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704287001: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704287001: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704287009: New connection from 172.22.0.1:54114 on port 1883.
+1704287009: New connection from 172.22.0.1:54112 on port 1883.
+1704287009: New connection from 172.22.0.1:54118 on port 1883.
+1704287009: New client connected from 172.22.0.1:54114 as mymqtt-355533723198575 (p2, c0, k60).
+1704287009: New client connected from 172.22.0.1:54112 as mymqtt-355714663742586 (p2, c0, k60).
+1704287009: New client connected from 172.22.0.1:54118 as mymqtt-355714142032201 (p2, c0, k60).
+1704287013: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704287013: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704287014: New connection from 172.22.0.1:54150 on port 1883.
+1704287014: New connection from 172.22.0.1:54152 on port 1883.
+1704287014: New client connected from 172.22.0.1:54150 as mymqtt-355714847796740 (p2, c0, k60).
+1704287014: New client connected from 172.22.0.1:54152 as mymqtt-355715025956509 (p2, c0, k60).
+1704287043: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704287044: New connection from 172.22.0.1:54250 on port 1883.
+1704287044: New client connected from 172.22.0.1:54250 as mymqtt-356038957977913 (p5, c1, k60).
+1704287103: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704287103: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704287103: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704287105: New connection from 172.22.0.1:54550 on port 1883.
+1704287105: New connection from 172.22.0.1:54552 on port 1883.
+1704287105: New connection from 172.22.0.1:54554 on port 1883.
+1704287105: New client connected from 172.22.0.1:54554 as mymqtt-355714142032201 (p2, c0, k60).
+1704287105: New client connected from 172.22.0.1:54550 as mymqtt-355533723198575 (p2, c0, k60).
+1704287105: New client connected from 172.22.0.1:54552 as mymqtt-355714663742586 (p2, c0, k60).
+1704287109: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704287109: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704287110: New connection from 172.22.0.1:54566 on port 1883.
+1704287110: New connection from 172.22.0.1:54568 on port 1883.
+1704287110: New client connected from 172.22.0.1:54566 as mymqtt-355715025956509 (p2, c0, k60).
+1704287110: New client connected from 172.22.0.1:54568 as mymqtt-355714847796740 (p2, c0, k60).
+1704287139: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704287141: New connection from 172.22.0.1:54708 on port 1883.
+1704287141: New client connected from 172.22.0.1:54708 as mymqtt-356038957977913 (p5, c1, k60).
+1704287613: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704287613: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704287616: New connection from 172.22.0.1:57276 on port 1883.
+1704287616: New connection from 172.22.0.1:57278 on port 1883.
+1704287616: New client connected from 172.22.0.1:57278 as mymqtt-355715025956509 (p2, c0, k60).
+1704287616: New client connected from 172.22.0.1:57276 as mymqtt-355714847796740 (p2, c0, k60).
+1704287643: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704287644: New connection from 172.22.0.1:57494 on port 1883.
+1704287644: New client connected from 172.22.0.1:57494 as mymqtt-356038957977913 (p5, c1, k60).
+1704287728: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704287799: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704287802: New connection from 172.22.0.1:58362 on port 1883.
+1704287802: New client connected from 172.22.0.1:58362 as mymqtt-356038957977913 (p5, c1, k60).
+1704287829: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704287829: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704287829: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704287830: New connection from 172.22.0.1:58444 on port 1883.
+1704287830: New connection from 172.22.0.1:58446 on port 1883.
+1704287830: New connection from 172.22.0.1:58448 on port 1883.
+1704287830: New client connected from 172.22.0.1:58444 as mymqtt-355714142032201 (p2, c0, k60).
+1704287830: New client connected from 172.22.0.1:58446 as mymqtt-355714663742586 (p2, c0, k60).
+1704287830: New client connected from 172.22.0.1:58448 as mymqtt-355533723198575 (p2, c0, k60).
+1704287859: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704287859: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704287860: New connection from 172.22.0.1:58570 on port 1883.
+1704287860: New connection from 172.22.0.1:58572 on port 1883.
+1704287860: New client connected from 172.22.0.1:58570 as mymqtt-355715025956509 (p2, c0, k60).
+1704287861: New client connected from 172.22.0.1:58572 as mymqtt-355714847796740 (p2, c0, k60).
+1704287895: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704287902: New connection from 172.22.0.1:58716 on port 1883.
+1704287902: New client connected from 172.22.0.1:58716 as mymqtt-356038957977913 (p5, c1, k60).
+1704287925: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704287925: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704287925: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704287927: New connection from 172.22.0.1:58782 on port 1883.
+1704287927: New connection from 172.22.0.1:58784 on port 1883.
+1704287927: New client connected from 172.22.0.1:58782 as mymqtt-355714142032201 (p2, c0, k60).
+1704287927: New client connected from 172.22.0.1:58784 as mymqtt-355533723198575 (p2, c0, k60).
+1704287927: New connection from 172.22.0.1:58786 on port 1883.
+1704287927: New client connected from 172.22.0.1:58786 as mymqtt-355714663742586 (p2, c0, k60).
+1704287955: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704287955: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704287956: New connection from 172.22.0.1:58932 on port 1883.
+1704287956: New connection from 172.22.0.1:58934 on port 1883.
+1704287956: New client connected from 172.22.0.1:58932 as mymqtt-355714847796740 (p2, c0, k60).
+1704287956: New client connected from 172.22.0.1:58934 as mymqtt-355715025956509 (p2, c0, k60).
+1704287997: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288002: New connection from 172.22.0.1:59170 on port 1883.
+1704288002: New client connected from 172.22.0.1:59170 as mymqtt-356038957977913 (p5, c1, k60).
+1704288051: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288051: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288059: New connection from 172.22.0.1:59382 on port 1883.
+1704288059: New connection from 172.22.0.1:59384 on port 1883.
+1704288059: New client connected from 172.22.0.1:59382 as mymqtt-355714847796740 (p2, c0, k60).
+1704288059: New client connected from 172.22.0.1:59384 as mymqtt-355715025956509 (p2, c0, k60).
+1704288093: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288094: New connection from 172.22.0.1:59540 on port 1883.
+1704288094: New client connected from 172.22.0.1:59540 as mymqtt-356038957977913 (p5, c1, k60).
+1704288111: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704288111: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704288111: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704288112: New connection from 172.22.0.1:59622 on port 1883.
+1704288112: New connection from 172.22.0.1:59630 on port 1883.
+1704288112: New connection from 172.22.0.1:59632 on port 1883.
+1704288112: New client connected from 172.22.0.1:59622 as mymqtt-355714142032201 (p2, c0, k60).
+1704288112: New client connected from 172.22.0.1:59630 as mymqtt-355714663742586 (p2, c0, k60).
+1704288112: New client connected from 172.22.0.1:59632 as mymqtt-355533723198575 (p2, c0, k60).
+1704288153: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288153: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288154: New connection from 172.22.0.1:59838 on port 1883.
+1704288154: New connection from 172.22.0.1:59840 on port 1883.
+1704288154: New client connected from 172.22.0.1:59838 as mymqtt-355715025956509 (p2, c0, k60).
+1704288154: New client connected from 172.22.0.1:59840 as mymqtt-355714847796740 (p2, c0, k60).
+1704288423: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288424: New connection from 172.22.0.1:33154 on port 1883.
+1704288424: New client connected from 172.22.0.1:33154 as mymqtt-356038957977913 (p5, c1, k60).
+1704288429: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704288429: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704288429: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704288432: New connection from 172.22.0.1:33194 on port 1883.
+1704288432: New connection from 172.22.0.1:33196 on port 1883.
+1704288432: New connection from 172.22.0.1:33198 on port 1883.
+1704288432: New client connected from 172.22.0.1:33194 as mymqtt-355533723198575 (p2, c0, k60).
+1704288432: New client connected from 172.22.0.1:33196 as mymqtt-355714142032201 (p2, c0, k60).
+1704288432: New client connected from 172.22.0.1:33198 as mymqtt-355714663742586 (p2, c0, k60).
+1704288483: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288483: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288485: New connection from 172.22.0.1:33320 on port 1883.
+1704288485: New connection from 172.22.0.1:33322 on port 1883.
+1704288485: New client connected from 172.22.0.1:33320 as mymqtt-355714847796740 (p2, c0, k60).
+1704288485: New client connected from 172.22.0.1:33322 as mymqtt-355715025956509 (p2, c0, k60).
+1704288519: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288523: New connection from 172.22.0.1:33444 on port 1883.
+1704288523: New client connected from 172.22.0.1:33444 as mymqtt-356038957977913 (p5, c1, k60).
+1704288525: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704288525: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704288525: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704288527: New connection from 172.22.0.1:33454 on port 1883.
+1704288527: New connection from 172.22.0.1:33456 on port 1883.
+1704288527: New connection from 172.22.0.1:33458 on port 1883.
+1704288527: New client connected from 172.22.0.1:33454 as mymqtt-355714663742586 (p2, c0, k60).
+1704288527: New client connected from 172.22.0.1:33456 as mymqtt-355533723198575 (p2, c0, k60).
+1704288527: New client connected from 172.22.0.1:33458 as mymqtt-355714142032201 (p2, c0, k60).
+1704288579: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288579: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288583: New connection from 172.22.0.1:33652 on port 1883.
+1704288583: New connection from 172.22.0.1:33654 on port 1883.
+1704288583: New client connected from 172.22.0.1:33652 as mymqtt-355714847796740 (p2, c0, k60).
+1704288583: New client connected from 172.22.0.1:33654 as mymqtt-355715025956509 (p2, c0, k60).
+1704288615: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288618: New connection from 172.22.0.1:33794 on port 1883.
+1704288618: New client connected from 172.22.0.1:33794 as mymqtt-356038957977913 (p5, c1, k60).
+1704288621: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704288621: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704288621: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704288622: New connection from 172.22.0.1:33822 on port 1883.
+1704288622: New connection from 172.22.0.1:33830 on port 1883.
+1704288622: New connection from 172.22.0.1:33832 on port 1883.
+1704288622: New client connected from 172.22.0.1:33822 as mymqtt-355714663742586 (p2, c0, k60).
+1704288622: New client connected from 172.22.0.1:33830 as mymqtt-355533723198575 (p2, c0, k60).
+1704288622: New client connected from 172.22.0.1:33832 as mymqtt-355714142032201 (p2, c0, k60).
+1704288675: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288675: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288676: New connection from 172.22.0.1:34134 on port 1883.
+1704288676: New connection from 172.22.0.1:34136 on port 1883.
+1704288676: New client connected from 172.22.0.1:34134 as mymqtt-355714847796740 (p2, c0, k60).
+1704288676: New client connected from 172.22.0.1:34136 as mymqtt-355715025956509 (p2, c0, k60).
+1704288771: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288771: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288772: New connection from 172.22.0.1:34612 on port 1883.
+1704288772: New connection from 172.22.0.1:34614 on port 1883.
+1704288772: New client connected from 172.22.0.1:34612 as mymqtt-355715025956509 (p2, c0, k60).
+1704288772: New client connected from 172.22.0.1:34614 as mymqtt-355714847796740 (p2, c0, k60).
+1704288879: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288879: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704288879: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704288879: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704288885: New connection from 172.22.0.1:35176 on port 1883.
+1704288885: New connection from 172.22.0.1:35180 on port 1883.
+1704288885: New connection from 172.22.0.1:35182 on port 1883.
+1704288885: New connection from 172.22.0.1:35184 on port 1883.
+1704288885: New client connected from 172.22.0.1:35176 as mymqtt-355714663742586 (p2, c0, k60).
+1704288885: New client connected from 172.22.0.1:35180 as mymqtt-356038957977913 (p5, c1, k60).
+1704288885: New client connected from 172.22.0.1:35182 as mymqtt-355714142032201 (p2, c0, k60).
+1704288885: New client connected from 172.22.0.1:35184 as mymqtt-355533723198575 (p2, c0, k60).
+1704288939: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704288939: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704288940: New connection from 172.22.0.1:35362 on port 1883.
+1704288940: New connection from 172.22.0.1:35364 on port 1883.
+1704288940: New client connected from 172.22.0.1:35364 as mymqtt-355715025956509 (p2, c0, k60).
+1704288940: New client connected from 172.22.0.1:35362 as mymqtt-355714847796740 (p2, c0, k60).
+1704288981: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704288981: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704288981: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704288981: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704288986: New connection from 172.22.0.1:35488 on port 1883.
+1704288986: New connection from 172.22.0.1:35490 on port 1883.
+1704288986: New connection from 172.22.0.1:35492 on port 1883.
+1704288986: New connection from 172.22.0.1:35494 on port 1883.
+1704288986: New client connected from 172.22.0.1:35488 as mymqtt-355714663742586 (p2, c0, k60).
+1704288986: New client connected from 172.22.0.1:35490 as mymqtt-355714142032201 (p2, c0, k60).
+1704288986: New client connected from 172.22.0.1:35492 as mymqtt-356038957977913 (p5, c1, k60).
+1704288986: New client connected from 172.22.0.1:35494 as mymqtt-355533723198575 (p2, c0, k60).
+1704289035: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289035: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289036: New connection from 172.22.0.1:35616 on port 1883.
+1704289036: New connection from 172.22.0.1:35618 on port 1883.
+1704289036: New client connected from 172.22.0.1:35616 as mymqtt-355715025956509 (p2, c0, k60).
+1704289036: New client connected from 172.22.0.1:35618 as mymqtt-355714847796740 (p2, c0, k60).
+1704289077: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289077: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289077: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289077: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289078: New connection from 172.22.0.1:35850 on port 1883.
+1704289078: New connection from 172.22.0.1:35846 on port 1883.
+1704289078: New connection from 172.22.0.1:35848 on port 1883.
+1704289078: New connection from 172.22.0.1:35852 on port 1883.
+1704289078: New client connected from 172.22.0.1:35850 as mymqtt-356038957977913 (p5, c1, k60).
+1704289078: New client connected from 172.22.0.1:35846 as mymqtt-355714142032201 (p2, c0, k60).
+1704289078: New client connected from 172.22.0.1:35848 as mymqtt-355714663742586 (p2, c0, k60).
+1704289078: New client connected from 172.22.0.1:35852 as mymqtt-355533723198575 (p2, c0, k60).
+1704289131: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289131: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289132: New connection from 172.22.0.1:36074 on port 1883.
+1704289132: New connection from 172.22.0.1:36076 on port 1883.
+1704289132: New client connected from 172.22.0.1:36074 as mymqtt-355715025956509 (p2, c0, k60).
+1704289132: New client connected from 172.22.0.1:36076 as mymqtt-355714847796740 (p2, c0, k60).
+1704289173: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289175: New connection from 172.22.0.1:36316 on port 1883.
+1704289175: New client connected from 172.22.0.1:36316 as mymqtt-356038957977913 (p5, c1, k60).
+1704289263: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289263: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289263: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289264: New connection from 172.22.0.1:36696 on port 1883.
+1704289264: New connection from 172.22.0.1:36698 on port 1883.
+1704289264: New connection from 172.22.0.1:36700 on port 1883.
+1704289264: New client connected from 172.22.0.1:36696 as mymqtt-355533723198575 (p2, c0, k60).
+1704289264: New client connected from 172.22.0.1:36698 as mymqtt-355714663742586 (p2, c0, k60).
+1704289264: New client connected from 172.22.0.1:36700 as mymqtt-355714142032201 (p2, c0, k60).
+1704289269: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289270: New connection from 172.22.0.1:36742 on port 1883.
+1704289270: New client connected from 172.22.0.1:36742 as mymqtt-356038957977913 (p5, c1, k60).
+1704289305: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289305: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289307: New connection from 172.22.0.1:36920 on port 1883.
+1704289307: New connection from 172.22.0.1:36922 on port 1883.
+1704289307: New client connected from 172.22.0.1:36920 as mymqtt-355714847796740 (p2, c0, k60).
+1704289307: New client connected from 172.22.0.1:36922 as mymqtt-355715025956509 (p2, c0, k60).
+1704289401: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289401: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289403: New connection from 172.22.0.1:37354 on port 1883.
+1704289403: New connection from 172.22.0.1:37356 on port 1883.
+1704289403: New client connected from 172.22.0.1:37354 as mymqtt-355714847796740 (p2, c0, k60).
+1704289403: New client connected from 172.22.0.1:37356 as mymqtt-355715025956509 (p2, c0, k60).
+1704289437: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289437: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289437: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289438: New connection from 172.22.0.1:37502 on port 1883.
+1704289438: New connection from 172.22.0.1:37504 on port 1883.
+1704289438: New connection from 172.22.0.1:37506 on port 1883.
+1704289438: New client connected from 172.22.0.1:37502 as mymqtt-355714663742586 (p2, c0, k60).
+1704289438: New client connected from 172.22.0.1:37504 as mymqtt-355714142032201 (p2, c0, k60).
+1704289438: New client connected from 172.22.0.1:37506 as mymqtt-355533723198575 (p2, c0, k60).
+1704289443: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289444: New connection from 172.22.0.1:37532 on port 1883.
+1704289444: New client connected from 172.22.0.1:37532 as mymqtt-356038957977913 (p5, c1, k60).
+1704289497: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289497: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289498: New connection from 172.22.0.1:37678 on port 1883.
+1704289498: New connection from 172.22.0.1:37680 on port 1883.
+1704289498: New client connected from 172.22.0.1:37678 as mymqtt-355714847796740 (p2, c0, k60).
+1704289498: New client connected from 172.22.0.1:37680 as mymqtt-355715025956509 (p2, c0, k60).
+1704289529: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704289533: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289533: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289533: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289534: New connection from 172.22.0.1:37842 on port 1883.
+1704289534: New connection from 172.22.0.1:37846 on port 1883.
+1704289534: New connection from 172.22.0.1:37848 on port 1883.
+1704289534: New client connected from 172.22.0.1:37842 as mymqtt-355714142032201 (p2, c0, k60).
+1704289534: New client connected from 172.22.0.1:37848 as mymqtt-355533723198575 (p2, c0, k60).
+1704289534: New client connected from 172.22.0.1:37846 as mymqtt-355714663742586 (p2, c0, k60).
+1704289539: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289540: New connection from 172.22.0.1:37896 on port 1883.
+1704289540: New client connected from 172.22.0.1:37896 as mymqtt-356038957977913 (p5, c1, k60).
+1704289635: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289637: New connection from 172.22.0.1:38340 on port 1883.
+1704289637: New client connected from 172.22.0.1:38340 as mymqtt-356038957977913 (p5, c1, k60).
+1704289677: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289677: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289678: New connection from 172.22.0.1:38450 on port 1883.
+1704289678: New connection from 172.22.0.1:38452 on port 1883.
+1704289678: New client connected from 172.22.0.1:38450 as mymqtt-355715025956509 (p2, c0, k60).
+1704289678: New client connected from 172.22.0.1:38452 as mymqtt-355714847796740 (p2, c0, k60).
+1704289713: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289713: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289713: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289714: New connection from 172.22.0.1:38634 on port 1883.
+1704289714: New connection from 172.22.0.1:38636 on port 1883.
+1704289714: New client connected from 172.22.0.1:38634 as mymqtt-355714663742586 (p2, c0, k60).
+1704289714: New client connected from 172.22.0.1:38636 as mymqtt-355533723198575 (p2, c0, k60).
+1704289714: New connection from 172.22.0.1:38638 on port 1883.
+1704289714: New client connected from 172.22.0.1:38638 as mymqtt-355714142032201 (p2, c0, k60).
+1704289731: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289732: New connection from 172.22.0.1:38696 on port 1883.
+1704289732: New client connected from 172.22.0.1:38696 as mymqtt-356038957977913 (p5, c1, k60).
+1704289773: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289773: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289774: New connection from 172.22.0.1:38824 on port 1883.
+1704289774: New connection from 172.22.0.1:38822 on port 1883.
+1704289774: New client connected from 172.22.0.1:38824 as mymqtt-355715025956509 (p2, c0, k60).
+1704289774: New client connected from 172.22.0.1:38822 as mymqtt-355714847796740 (p2, c0, k60).
+1704289809: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289809: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289809: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289815: New connection from 172.22.0.1:38930 on port 1883.
+1704289815: New connection from 172.22.0.1:38932 on port 1883.
+1704289815: New connection from 172.22.0.1:38942 on port 1883.
+1704289815: New client connected from 172.22.0.1:38930 as mymqtt-355714142032201 (p2, c0, k60).
+1704289815: New client connected from 172.22.0.1:38932 as mymqtt-355533723198575 (p2, c0, k60).
+1704289815: New client connected from 172.22.0.1:38942 as mymqtt-355714663742586 (p2, c0, k60).
+1704289827: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289828: New connection from 172.22.0.1:39034 on port 1883.
+1704289828: New client connected from 172.22.0.1:39034 as mymqtt-356038957977913 (p5, c1, k60).
+1704289869: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289869: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289870: New connection from 172.22.0.1:39206 on port 1883.
+1704289870: New connection from 172.22.0.1:39208 on port 1883.
+1704289870: New client connected from 172.22.0.1:39206 as mymqtt-355715025956509 (p2, c0, k60).
+1704289870: New client connected from 172.22.0.1:39208 as mymqtt-355714847796740 (p2, c0, k60).
+1704289905: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704289905: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704289905: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704289906: New connection from 172.22.0.1:39364 on port 1883.
+1704289906: New connection from 172.22.0.1:39362 on port 1883.
+1704289906: New connection from 172.22.0.1:39366 on port 1883.
+1704289906: New client connected from 172.22.0.1:39364 as mymqtt-355714142032201 (p2, c0, k60).
+1704289906: New client connected from 172.22.0.1:39362 as mymqtt-355533723198575 (p2, c0, k60).
+1704289906: New client connected from 172.22.0.1:39366 as mymqtt-355714663742586 (p2, c0, k60).
+1704289923: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704289924: New connection from 172.22.0.1:39408 on port 1883.
+1704289924: New client connected from 172.22.0.1:39408 as mymqtt-356038957977913 (p5, c1, k60).
+1704289965: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704289965: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704289967: New connection from 172.22.0.1:39522 on port 1883.
+1704289967: New client connected from 172.22.0.1:39522 as mymqtt-355714847796740 (p2, c0, k60).
+1704289967: New connection from 172.22.0.1:39524 on port 1883.
+1704289967: New client connected from 172.22.0.1:39524 as mymqtt-355715025956509 (p2, c0, k60).
+1704290001: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290001: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290001: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290004: New connection from 172.22.0.1:39606 on port 1883.
+1704290004: New connection from 172.22.0.1:39608 on port 1883.
+1704290004: New connection from 172.22.0.1:39610 on port 1883.
+1704290004: New client connected from 172.22.0.1:39606 as mymqtt-355714142032201 (p2, c0, k60).
+1704290004: New client connected from 172.22.0.1:39608 as mymqtt-355714663742586 (p2, c0, k60).
+1704290004: New client connected from 172.22.0.1:39610 as mymqtt-355533723198575 (p2, c0, k60).
+1704290019: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290020: New connection from 172.22.0.1:39652 on port 1883.
+1704290020: New client connected from 172.22.0.1:39652 as mymqtt-356038957977913 (p5, c1, k60).
+1704290061: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290061: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290062: New connection from 172.22.0.1:39832 on port 1883.
+1704290062: New connection from 172.22.0.1:39830 on port 1883.
+1704290062: New client connected from 172.22.0.1:39832 as mymqtt-355714847796740 (p2, c0, k60).
+1704290062: New client connected from 172.22.0.1:39830 as mymqtt-355715025956509 (p2, c0, k60).
+1704290097: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290097: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290097: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290106: New connection from 172.22.0.1:39970 on port 1883.
+1704290106: New connection from 172.22.0.1:39974 on port 1883.
+1704290106: New connection from 172.22.0.1:39976 on port 1883.
+1704290106: New client connected from 172.22.0.1:39970 as mymqtt-355533723198575 (p2, c0, k60).
+1704290106: New client connected from 172.22.0.1:39974 as mymqtt-355714663742586 (p2, c0, k60).
+1704290106: New client connected from 172.22.0.1:39976 as mymqtt-355714142032201 (p2, c0, k60).
+1704290115: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290121: New connection from 172.22.0.1:40008 on port 1883.
+1704290121: New client connected from 172.22.0.1:40008 as mymqtt-356038957977913 (p5, c1, k60).
+1704290157: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290157: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290159: New connection from 172.22.0.1:40106 on port 1883.
+1704290159: New connection from 172.22.0.1:40108 on port 1883.
+1704290159: New client connected from 172.22.0.1:40106 as mymqtt-355715025956509 (p2, c0, k60).
+1704290159: New client connected from 172.22.0.1:40108 as mymqtt-355714847796740 (p2, c0, k60).
+1704290199: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290199: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290199: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290201: New connection from 172.22.0.1:40182 on port 1883.
+1704290201: New connection from 172.22.0.1:40184 on port 1883.
+1704290201: New connection from 172.22.0.1:40186 on port 1883.
+1704290201: New client connected from 172.22.0.1:40182 as mymqtt-355533723198575 (p2, c0, k60).
+1704290201: New client connected from 172.22.0.1:40184 as mymqtt-355714663742586 (p2, c0, k60).
+1704290201: New client connected from 172.22.0.1:40186 as mymqtt-355714142032201 (p2, c0, k60).
+1704290217: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290218: New connection from 172.22.0.1:40260 on port 1883.
+1704290218: New client connected from 172.22.0.1:40260 as mymqtt-356038957977913 (p5, c1, k60).
+1704290253: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290253: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290254: New connection from 172.22.0.1:40428 on port 1883.
+1704290254: New connection from 172.22.0.1:40430 on port 1883.
+1704290254: New client connected from 172.22.0.1:40428 as mymqtt-355715025956509 (p2, c0, k60).
+1704290254: New client connected from 172.22.0.1:40430 as mymqtt-355714847796740 (p2, c0, k60).
+1704290295: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290295: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290295: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290296: New connection from 172.22.0.1:40558 on port 1883.
+1704290296: New connection from 172.22.0.1:40562 on port 1883.
+1704290296: New connection from 172.22.0.1:40560 on port 1883.
+1704290296: New client connected from 172.22.0.1:40558 as mymqtt-355714142032201 (p2, c0, k60).
+1704290296: New client connected from 172.22.0.1:40562 as mymqtt-355714663742586 (p2, c0, k60).
+1704290296: New client connected from 172.22.0.1:40560 as mymqtt-355533723198575 (p2, c0, k60).
+1704290313: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290315: New connection from 172.22.0.1:40628 on port 1883.
+1704290315: New client connected from 172.22.0.1:40628 as mymqtt-356038957977913 (p5, c1, k60).
+1704290349: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290349: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290353: New connection from 172.22.0.1:40728 on port 1883.
+1704290353: New connection from 172.22.0.1:40730 on port 1883.
+1704290353: New client connected from 172.22.0.1:40730 as mymqtt-355714847796740 (p2, c0, k60).
+1704290353: New client connected from 172.22.0.1:40728 as mymqtt-355715025956509 (p2, c0, k60).
+1704290391: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290391: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290391: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290398: New connection from 172.22.0.1:40932 on port 1883.
+1704290398: New connection from 172.22.0.1:40934 on port 1883.
+1704290398: New connection from 172.22.0.1:40936 on port 1883.
+1704290398: New client connected from 172.22.0.1:40932 as mymqtt-355533723198575 (p2, c0, k60).
+1704290398: New client connected from 172.22.0.1:40934 as mymqtt-355714142032201 (p2, c0, k60).
+1704290398: New client connected from 172.22.0.1:40936 as mymqtt-355714663742586 (p2, c0, k60).
+1704290409: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290412: New connection from 172.22.0.1:40986 on port 1883.
+1704290412: New client connected from 172.22.0.1:40986 as mymqtt-356038957977913 (p5, c1, k60).
+1704290445: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290445: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290452: New connection from 172.22.0.1:41044 on port 1883.
+1704290452: New connection from 172.22.0.1:41046 on port 1883.
+1704290452: New client connected from 172.22.0.1:41044 as mymqtt-355715025956509 (p2, c0, k60).
+1704290452: New client connected from 172.22.0.1:41046 as mymqtt-355714847796740 (p2, c0, k60).
+1704290493: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290493: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290493: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290498: New connection from 172.22.0.1:41160 on port 1883.
+1704290498: New connection from 172.22.0.1:41162 on port 1883.
+1704290498: New connection from 172.22.0.1:41166 on port 1883.
+1704290498: New client connected from 172.22.0.1:41160 as mymqtt-355533723198575 (p2, c0, k60).
+1704290498: New client connected from 172.22.0.1:41162 as mymqtt-355714142032201 (p2, c0, k60).
+1704290498: New client connected from 172.22.0.1:41166 as mymqtt-355714663742586 (p2, c0, k60).
+1704290505: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290510: New connection from 172.22.0.1:41198 on port 1883.
+1704290510: New client connected from 172.22.0.1:41198 as mymqtt-356038957977913 (p5, c1, k60).
+1704290547: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290547: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290548: New connection from 172.22.0.1:41352 on port 1883.
+1704290548: New connection from 172.22.0.1:41354 on port 1883.
+1704290548: New client connected from 172.22.0.1:41354 as mymqtt-355714847796740 (p2, c0, k60).
+1704290548: New client connected from 172.22.0.1:41352 as mymqtt-355715025956509 (p2, c0, k60).
+1704290589: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290589: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290589: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290591: New connection from 172.22.0.1:41546 on port 1883.
+1704290591: New connection from 172.22.0.1:41548 on port 1883.
+1704290591: New connection from 172.22.0.1:41550 on port 1883.
+1704290591: New client connected from 172.22.0.1:41546 as mymqtt-355714663742586 (p2, c0, k60).
+1704290591: New client connected from 172.22.0.1:41548 as mymqtt-355533723198575 (p2, c0, k60).
+1704290591: New client connected from 172.22.0.1:41550 as mymqtt-355714142032201 (p2, c0, k60).
+1704290601: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290602: New connection from 172.22.0.1:41612 on port 1883.
+1704290602: New client connected from 172.22.0.1:41612 as mymqtt-356038957977913 (p5, c1, k60).
+1704290643: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290643: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290644: New connection from 172.22.0.1:41776 on port 1883.
+1704290644: New client connected from 172.22.0.1:41776 as mymqtt-355715025956509 (p2, c0, k60).
+1704290644: New connection from 172.22.0.1:41778 on port 1883.
+1704290644: New client connected from 172.22.0.1:41778 as mymqtt-355714847796740 (p2, c0, k60).
+1704290685: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290685: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290685: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290686: New connection from 172.22.0.1:41978 on port 1883.
+1704290686: New connection from 172.22.0.1:41980 on port 1883.
+1704290686: New connection from 172.22.0.1:41982 on port 1883.
+1704290686: New client connected from 172.22.0.1:41978 as mymqtt-355533723198575 (p2, c0, k60).
+1704290686: New client connected from 172.22.0.1:41980 as mymqtt-355714142032201 (p2, c0, k60).
+1704290686: New client connected from 172.22.0.1:41982 as mymqtt-355714663742586 (p2, c0, k60).
+1704290697: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290698: New connection from 172.22.0.1:42034 on port 1883.
+1704290698: New client connected from 172.22.0.1:42034 as mymqtt-356038957977913 (p5, c1, k60).
+1704290739: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290739: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290740: New connection from 172.22.0.1:42236 on port 1883.
+1704290740: New connection from 172.22.0.1:42238 on port 1883.
+1704290740: New client connected from 172.22.0.1:42236 as mymqtt-355715025956509 (p2, c0, k60).
+1704290740: New client connected from 172.22.0.1:42238 as mymqtt-355714847796740 (p2, c0, k60).
+1704290835: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704290835: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704290836: New connection from 172.22.0.1:42696 on port 1883.
+1704290836: New connection from 172.22.0.1:42698 on port 1883.
+1704290836: New client connected from 172.22.0.1:42696 as mymqtt-355714847796740 (p2, c0, k60).
+1704290836: New client connected from 172.22.0.1:42698 as mymqtt-355715025956509 (p2, c0, k60).
+1704290877: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290879: New connection from 172.22.0.1:42974 on port 1883.
+1704290879: New client connected from 172.22.0.1:42974 as mymqtt-356038957977913 (p5, c1, k60).
+1704290955: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704290955: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704290955: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704290956: New connection from 172.22.0.1:43274 on port 1883.
+1704290956: New connection from 172.22.0.1:43278 on port 1883.
+1704290956: New connection from 172.22.0.1:43280 on port 1883.
+1704290956: New client connected from 172.22.0.1:43274 as mymqtt-355714663742586 (p2, c0, k60).
+1704290956: New client connected from 172.22.0.1:43278 as mymqtt-355714142032201 (p2, c0, k60).
+1704290956: New client connected from 172.22.0.1:43280 as mymqtt-355533723198575 (p2, c0, k60).
+1704290973: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704290978: New connection from 172.22.0.1:43348 on port 1883.
+1704290978: New client connected from 172.22.0.1:43348 as mymqtt-356038957977913 (p5, c1, k60).
+1704291009: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291009: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291010: New connection from 172.22.0.1:43424 on port 1883.
+1704291010: New connection from 172.22.0.1:43426 on port 1883.
+1704291010: New client connected from 172.22.0.1:43424 as mymqtt-355714847796740 (p2, c0, k60).
+1704291010: New client connected from 172.22.0.1:43426 as mymqtt-355715025956509 (p2, c0, k60).
+1704291051: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704291051: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704291051: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704291052: New connection from 172.22.0.1:43612 on port 1883.
+1704291052: New connection from 172.22.0.1:43614 on port 1883.
+1704291052: New connection from 172.22.0.1:43616 on port 1883.
+1704291052: New client connected from 172.22.0.1:43612 as mymqtt-355533723198575 (p2, c0, k60).
+1704291052: New client connected from 172.22.0.1:43614 as mymqtt-355714142032201 (p2, c0, k60).
+1704291052: New client connected from 172.22.0.1:43616 as mymqtt-355714663742586 (p2, c0, k60).
+1704291069: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704291070: New connection from 172.22.0.1:43656 on port 1883.
+1704291070: New client connected from 172.22.0.1:43656 as mymqtt-356038957977913 (p5, c1, k60).
+1704291105: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291105: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291106: New connection from 172.22.0.1:43828 on port 1883.
+1704291106: New connection from 172.22.0.1:43830 on port 1883.
+1704291106: New client connected from 172.22.0.1:43828 as mymqtt-355715025956509 (p2, c0, k60).
+1704291106: New client connected from 172.22.0.1:43830 as mymqtt-355714847796740 (p2, c0, k60).
+1704291330: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704291351: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291351: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291354: New connection from 172.22.0.1:45114 on port 1883.
+1704291354: New connection from 172.22.0.1:45116 on port 1883.
+1704291354: New client connected from 172.22.0.1:45114 as mymqtt-355715025956509 (p2, c0, k60).
+1704291354: New client connected from 172.22.0.1:45116 as mymqtt-355714847796740 (p2, c0, k60).
+1704291375: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704291375: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704291375: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704291376: New connection from 172.22.0.1:45254 on port 1883.
+1704291376: New connection from 172.22.0.1:45252 on port 1883.
+1704291376: New connection from 172.22.0.1:45256 on port 1883.
+1704291376: New client connected from 172.22.0.1:45254 as mymqtt-355533723198575 (p2, c0, k60).
+1704291376: New client connected from 172.22.0.1:45252 as mymqtt-355714142032201 (p2, c0, k60).
+1704291376: New client connected from 172.22.0.1:45256 as mymqtt-355714663742586 (p2, c0, k60).
+1704291603: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291603: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291605: New connection from 172.22.0.1:46400 on port 1883.
+1704291605: New connection from 172.22.0.1:46402 on port 1883.
+1704291605: New client connected from 172.22.0.1:46402 as mymqtt-355715025956509 (p2, c0, k60).
+1704291605: New client connected from 172.22.0.1:46400 as mymqtt-355714847796740 (p2, c0, k60).
+1704291615: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704291615: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704291615: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704291617: New connection from 172.22.0.1:46436 on port 1883.
+1704291617: New connection from 172.22.0.1:46442 on port 1883.
+1704291617: New connection from 172.22.0.1:46444 on port 1883.
+1704291617: New client connected from 172.22.0.1:46442 as mymqtt-355714142032201 (p2, c0, k60).
+1704291617: New client connected from 172.22.0.1:46444 as mymqtt-355714663742586 (p2, c0, k60).
+1704291617: New client connected from 172.22.0.1:46436 as mymqtt-355533723198575 (p2, c0, k60).
+1704291669: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704291670: New connection from 172.22.0.1:46622 on port 1883.
+1704291670: New client connected from 172.22.0.1:46622 as mymqtt-356038957977913 (p5, c1, k60).
+1704291699: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291699: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291700: New connection from 172.22.0.1:46734 on port 1883.
+1704291700: New connection from 172.22.0.1:46736 on port 1883.
+1704291700: New client connected from 172.22.0.1:46734 as mymqtt-355714847796740 (p2, c0, k60).
+1704291700: New client connected from 172.22.0.1:46736 as mymqtt-355715025956509 (p2, c0, k60).
+1704291711: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704291711: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704291711: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704291712: New connection from 172.22.0.1:46802 on port 1883.
+1704291712: New connection from 172.22.0.1:46804 on port 1883.
+1704291712: New connection from 172.22.0.1:46806 on port 1883.
+1704291712: New client connected from 172.22.0.1:46802 as mymqtt-355533723198575 (p2, c0, k60).
+1704291712: New client connected from 172.22.0.1:46804 as mymqtt-355714142032201 (p2, c0, k60).
+1704291712: New client connected from 172.22.0.1:46806 as mymqtt-355714663742586 (p2, c0, k60).
+1704291765: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704291768: New connection from 172.22.0.1:46922 on port 1883.
+1704291768: New client connected from 172.22.0.1:46922 as mymqtt-356038957977913 (p5, c1, k60).
+1704291795: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291795: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291796: New connection from 172.22.0.1:47004 on port 1883.
+1704291796: New connection from 172.22.0.1:47006 on port 1883.
+1704291796: New client connected from 172.22.0.1:47004 as mymqtt-355715025956509 (p2, c0, k60).
+1704291796: New client connected from 172.22.0.1:47006 as mymqtt-355714847796740 (p2, c0, k60).
+1704291807: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704291807: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704291807: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704291808: New connection from 172.22.0.1:47050 on port 1883.
+1704291808: New connection from 172.22.0.1:47048 on port 1883.
+1704291808: New connection from 172.22.0.1:47052 on port 1883.
+1704291808: New client connected from 172.22.0.1:47050 as mymqtt-355714142032201 (p2, c0, k60).
+1704291808: New client connected from 172.22.0.1:47048 as mymqtt-355714663742586 (p2, c0, k60).
+1704291808: New client connected from 172.22.0.1:47052 as mymqtt-355533723198575 (p2, c0, k60).
+1704291861: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704291862: New connection from 172.22.0.1:47258 on port 1883.
+1704291862: New client connected from 172.22.0.1:47258 as mymqtt-356038957977913 (p5, c1, k60).
+1704291891: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704291891: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704291892: New connection from 172.22.0.1:47430 on port 1883.
+1704291892: New connection from 172.22.0.1:47432 on port 1883.
+1704291892: New client connected from 172.22.0.1:47430 as mymqtt-355714847796740 (p2, c0, k60).
+1704291892: New client connected from 172.22.0.1:47432 as mymqtt-355715025956509 (p2, c0, k60).
+1704292203: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292203: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292204: New connection from 172.22.0.1:49154 on port 1883.
+1704292204: New connection from 172.22.0.1:49156 on port 1883.
+1704292204: New client connected from 172.22.0.1:49154 as mymqtt-355715025956509 (p2, c0, k60).
+1704292204: New client connected from 172.22.0.1:49156 as mymqtt-355714847796740 (p2, c0, k60).
+1704292269: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292271: New connection from 172.22.0.1:49392 on port 1883.
+1704292271: New client connected from 172.22.0.1:49392 as mymqtt-356038957977913 (p5, c1, k60).
+1704292287: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292287: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292287: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292289: New connection from 172.22.0.1:49464 on port 1883.
+1704292289: New connection from 172.22.0.1:49466 on port 1883.
+1704292289: New connection from 172.22.0.1:49472 on port 1883.
+1704292289: New client connected from 172.22.0.1:49464 as mymqtt-355714142032201 (p2, c0, k60).
+1704292289: New client connected from 172.22.0.1:49466 as mymqtt-355533723198575 (p2, c0, k60).
+1704292289: New client connected from 172.22.0.1:49472 as mymqtt-355714663742586 (p2, c0, k60).
+1704292299: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292299: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292301: New connection from 172.22.0.1:49498 on port 1883.
+1704292301: New connection from 172.22.0.1:49500 on port 1883.
+1704292301: New client connected from 172.22.0.1:49498 as mymqtt-355715025956509 (p2, c0, k60).
+1704292301: New client connected from 172.22.0.1:49500 as mymqtt-355714847796740 (p2, c0, k60).
+1704292365: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292367: New connection from 172.22.0.1:49728 on port 1883.
+1704292367: New client connected from 172.22.0.1:49728 as mymqtt-356038957977913 (p5, c1, k60).
+1704292383: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292383: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292383: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292385: New connection from 172.22.0.1:49800 on port 1883.
+1704292385: New connection from 172.22.0.1:49798 on port 1883.
+1704292385: New connection from 172.22.0.1:49802 on port 1883.
+1704292385: New client connected from 172.22.0.1:49798 as mymqtt-355714142032201 (p2, c0, k60).
+1704292385: New client connected from 172.22.0.1:49802 as mymqtt-355714663742586 (p2, c0, k60).
+1704292385: New client connected from 172.22.0.1:49800 as mymqtt-355533723198575 (p2, c0, k60).
+1704292395: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292395: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292400: New connection from 172.22.0.1:49842 on port 1883.
+1704292400: New connection from 172.22.0.1:49844 on port 1883.
+1704292400: New client connected from 172.22.0.1:49842 as mymqtt-355714847796740 (p2, c0, k60).
+1704292400: New client connected from 172.22.0.1:49844 as mymqtt-355715025956509 (p2, c0, k60).
+1704292461: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292465: New connection from 172.22.0.1:50006 on port 1883.
+1704292465: New client connected from 172.22.0.1:50006 as mymqtt-356038957977913 (p5, c1, k60).
+1704292479: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292479: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292479: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292480: New connection from 172.22.0.1:50040 on port 1883.
+1704292480: New connection from 172.22.0.1:50042 on port 1883.
+1704292480: New connection from 172.22.0.1:50050 on port 1883.
+1704292480: New client connected from 172.22.0.1:50040 as mymqtt-355533723198575 (p2, c0, k60).
+1704292480: New client connected from 172.22.0.1:50042 as mymqtt-355714142032201 (p2, c0, k60).
+1704292480: New client connected from 172.22.0.1:50050 as mymqtt-355714663742586 (p2, c0, k60).
+1704292491: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292491: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292493: New connection from 172.22.0.1:50076 on port 1883.
+1704292493: New connection from 172.22.0.1:50078 on port 1883.
+1704292493: New client connected from 172.22.0.1:50076 as mymqtt-355715025956509 (p2, c0, k60).
+1704292493: New client connected from 172.22.0.1:50078 as mymqtt-355714847796740 (p2, c0, k60).
+1704292557: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292560: New connection from 172.22.0.1:50350 on port 1883.
+1704292560: New client connected from 172.22.0.1:50350 as mymqtt-356038957977913 (p5, c1, k60).
+1704292575: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292575: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292575: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292579: New connection from 172.22.0.1:50398 on port 1883.
+1704292579: New connection from 172.22.0.1:50400 on port 1883.
+1704292579: New connection from 172.22.0.1:50402 on port 1883.
+1704292579: New client connected from 172.22.0.1:50398 as mymqtt-355533723198575 (p2, c0, k60).
+1704292579: New client connected from 172.22.0.1:50402 as mymqtt-355714663742586 (p2, c0, k60).
+1704292579: New client connected from 172.22.0.1:50400 as mymqtt-355714142032201 (p2, c0, k60).
+1704292587: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292587: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292589: New connection from 172.22.0.1:50416 on port 1883.
+1704292589: New connection from 172.22.0.1:50418 on port 1883.
+1704292589: New client connected from 172.22.0.1:50416 as mymqtt-355715025956509 (p2, c0, k60).
+1704292589: New client connected from 172.22.0.1:50418 as mymqtt-355714847796740 (p2, c0, k60).
+1704292653: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292654: New connection from 172.22.0.1:50556 on port 1883.
+1704292654: New client connected from 172.22.0.1:50556 as mymqtt-356038957977913 (p5, c1, k60).
+1704292671: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292671: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292671: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292672: New connection from 172.22.0.1:50606 on port 1883.
+1704292672: New connection from 172.22.0.1:50608 on port 1883.
+1704292672: New connection from 172.22.0.1:50610 on port 1883.
+1704292672: New client connected from 172.22.0.1:50608 as mymqtt-355714142032201 (p2, c0, k60).
+1704292672: New client connected from 172.22.0.1:50606 as mymqtt-355714663742586 (p2, c0, k60).
+1704292672: New client connected from 172.22.0.1:50610 as mymqtt-355533723198575 (p2, c0, k60).
+1704292683: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292683: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292684: New connection from 172.22.0.1:50660 on port 1883.
+1704292684: New connection from 172.22.0.1:50662 on port 1883.
+1704292684: New client connected from 172.22.0.1:50660 as mymqtt-355714847796740 (p2, c0, k60).
+1704292684: New client connected from 172.22.0.1:50662 as mymqtt-355715025956509 (p2, c0, k60).
+1704292749: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292757: New connection from 172.22.0.1:50868 on port 1883.
+1704292757: New client connected from 172.22.0.1:50868 as mymqtt-356038957977913 (p5, c1, k60).
+1704292767: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292767: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292767: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292773: New connection from 172.22.0.1:50904 on port 1883.
+1704292773: New connection from 172.22.0.1:50906 on port 1883.
+1704292773: New client connected from 172.22.0.1:50904 as mymqtt-355714663742586 (p2, c0, k60).
+1704292773: New client connected from 172.22.0.1:50906 as mymqtt-355714142032201 (p2, c0, k60).
+1704292773: New connection from 172.22.0.1:50912 on port 1883.
+1704292773: New client connected from 172.22.0.1:50912 as mymqtt-355533723198575 (p2, c0, k60).
+1704292779: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292779: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292788: New connection from 172.22.0.1:50958 on port 1883.
+1704292788: New client connected from 172.22.0.1:50958 as mymqtt-355715025956509 (p2, c0, k60).
+1704292788: New connection from 172.22.0.1:50960 on port 1883.
+1704292788: New client connected from 172.22.0.1:50960 as mymqtt-355714847796740 (p2, c0, k60).
+1704292851: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292852: New connection from 172.22.0.1:51054 on port 1883.
+1704292852: New client connected from 172.22.0.1:51054 as mymqtt-356038957977913 (p5, c1, k60).
+1704292869: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292869: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292869: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292870: New connection from 172.22.0.1:51116 on port 1883.
+1704292870: New connection from 172.22.0.1:51118 on port 1883.
+1704292870: New connection from 172.22.0.1:51120 on port 1883.
+1704292870: New client connected from 172.22.0.1:51116 as mymqtt-355714663742586 (p2, c0, k60).
+1704292870: New client connected from 172.22.0.1:51118 as mymqtt-355714142032201 (p2, c0, k60).
+1704292870: New client connected from 172.22.0.1:51120 as mymqtt-355533723198575 (p2, c0, k60).
+1704292881: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292881: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292882: New connection from 172.22.0.1:51134 on port 1883.
+1704292882: New connection from 172.22.0.1:51140 on port 1883.
+1704292882: New client connected from 172.22.0.1:51134 as mymqtt-355715025956509 (p2, c0, k60).
+1704292882: New client connected from 172.22.0.1:51140 as mymqtt-355714847796740 (p2, c0, k60).
+1704292947: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704292948: New connection from 172.22.0.1:51296 on port 1883.
+1704292948: New client connected from 172.22.0.1:51296 as mymqtt-356038957977913 (p5, c1, k60).
+1704292965: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704292965: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704292965: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704292966: New connection from 172.22.0.1:51384 on port 1883.
+1704292966: New connection from 172.22.0.1:51386 on port 1883.
+1704292966: New connection from 172.22.0.1:51388 on port 1883.
+1704292966: New client connected from 172.22.0.1:51384 as mymqtt-355533723198575 (p2, c0, k60).
+1704292966: New client connected from 172.22.0.1:51386 as mymqtt-355714142032201 (p2, c0, k60).
+1704292966: New client connected from 172.22.0.1:51388 as mymqtt-355714663742586 (p2, c0, k60).
+1704292977: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704292977: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704292978: New connection from 172.22.0.1:51454 on port 1883.
+1704292978: New connection from 172.22.0.1:51456 on port 1883.
+1704292978: New client connected from 172.22.0.1:51454 as mymqtt-355714847796740 (p2, c0, k60).
+1704292978: New client connected from 172.22.0.1:51456 as mymqtt-355715025956509 (p2, c0, k60).
+1704293043: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293044: New connection from 172.22.0.1:51618 on port 1883.
+1704293044: New client connected from 172.22.0.1:51618 as mymqtt-356038957977913 (p5, c1, k60).
+1704293061: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704293061: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704293061: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704293063: New connection from 172.22.0.1:51704 on port 1883.
+1704293063: New connection from 172.22.0.1:51706 on port 1883.
+1704293063: New client connected from 172.22.0.1:51706 as mymqtt-355714142032201 (p2, c0, k60).
+1704293063: New client connected from 172.22.0.1:51704 as mymqtt-355714663742586 (p2, c0, k60).
+1704293063: New connection from 172.22.0.1:51708 on port 1883.
+1704293063: New client connected from 172.22.0.1:51708 as mymqtt-355533723198575 (p2, c0, k60).
+1704293073: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293073: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293074: New connection from 172.22.0.1:51736 on port 1883.
+1704293074: New connection from 172.22.0.1:51738 on port 1883.
+1704293074: New client connected from 172.22.0.1:51738 as mymqtt-355715025956509 (p2, c0, k60).
+1704293074: New client connected from 172.22.0.1:51736 as mymqtt-355714847796740 (p2, c0, k60).
+1704293131: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1704293139: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293140: New connection from 172.22.0.1:51974 on port 1883.
+1704293140: New client connected from 172.22.0.1:51974 as mymqtt-356038957977913 (p5, c1, k60).
+1704293157: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704293157: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704293157: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704293158: New connection from 172.22.0.1:52042 on port 1883.
+1704293158: New client connected from 172.22.0.1:52042 as mymqtt-355533723198575 (p2, c0, k60).
+1704293158: New connection from 172.22.0.1:52044 on port 1883.
+1704293158: New connection from 172.22.0.1:52046 on port 1883.
+1704293158: New client connected from 172.22.0.1:52044 as mymqtt-355714142032201 (p2, c0, k60).
+1704293158: New client connected from 172.22.0.1:52046 as mymqtt-355714663742586 (p2, c0, k60).
+1704293169: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293169: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293170: New connection from 172.22.0.1:52132 on port 1883.
+1704293170: New connection from 172.22.0.1:52134 on port 1883.
+1704293170: New client connected from 172.22.0.1:52132 as mymqtt-355715025956509 (p2, c0, k60).
+1704293170: New client connected from 172.22.0.1:52134 as mymqtt-355714847796740 (p2, c0, k60).
+1704293325: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293326: New connection from 172.22.0.1:52892 on port 1883.
+1704293326: New client connected from 172.22.0.1:52892 as mymqtt-356038957977913 (p5, c1, k60).
+1704293355: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293355: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293356: New connection from 172.22.0.1:52982 on port 1883.
+1704293356: New connection from 172.22.0.1:52984 on port 1883.
+1704293356: New client connected from 172.22.0.1:52982 as mymqtt-355715025956509 (p2, c0, k60).
+1704293356: New client connected from 172.22.0.1:52984 as mymqtt-355714847796740 (p2, c0, k60).
+1704293421: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293423: New connection from 172.22.0.1:53156 on port 1883.
+1704293423: New client connected from 172.22.0.1:53156 as mymqtt-356038957977913 (p5, c1, k60).
+1704293427: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704293427: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704293427: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704293432: New connection from 172.22.0.1:53178 on port 1883.
+1704293432: New connection from 172.22.0.1:53180 on port 1883.
+1704293432: New connection from 172.22.0.1:53184 on port 1883.
+1704293432: New client connected from 172.22.0.1:53178 as mymqtt-355714142032201 (p2, c0, k60).
+1704293432: New client connected from 172.22.0.1:53180 as mymqtt-355714663742586 (p2, c0, k60).
+1704293432: New client connected from 172.22.0.1:53184 as mymqtt-355533723198575 (p2, c0, k60).
+1704293451: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293451: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293454: New connection from 172.22.0.1:53212 on port 1883.
+1704293454: New client connected from 172.22.0.1:53212 as mymqtt-355715025956509 (p2, c0, k60).
+1704293454: New connection from 172.22.0.1:53214 on port 1883.
+1704293454: New client connected from 172.22.0.1:53214 as mymqtt-355714847796740 (p2, c0, k60).
+1704293517: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293523: New connection from 172.22.0.1:53372 on port 1883.
+1704293523: New client connected from 172.22.0.1:53372 as mymqtt-356038957977913 (p5, c1, k60).
+1704293523: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704293523: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704293523: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704293526: New connection from 172.22.0.1:53384 on port 1883.
+1704293526: New connection from 172.22.0.1:53382 on port 1883.
+1704293526: New connection from 172.22.0.1:53390 on port 1883.
+1704293526: New client connected from 172.22.0.1:53384 as mymqtt-355714663742586 (p2, c0, k60).
+1704293526: New client connected from 172.22.0.1:53382 as mymqtt-355533723198575 (p2, c0, k60).
+1704293526: New client connected from 172.22.0.1:53390 as mymqtt-355714142032201 (p2, c0, k60).
+1704293547: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293547: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293556: New connection from 172.22.0.1:53446 on port 1883.
+1704293556: New connection from 172.22.0.1:53448 on port 1883.
+1704293556: New client connected from 172.22.0.1:53448 as mymqtt-355715025956509 (p2, c0, k60).
+1704293556: New client connected from 172.22.0.1:53446 as mymqtt-355714847796740 (p2, c0, k60).
+1704293613: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293617: New connection from 172.22.0.1:53600 on port 1883.
+1704293617: New client connected from 172.22.0.1:53600 as mymqtt-356038957977913 (p5, c1, k60).
+1704293619: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704293619: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704293619: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704293620: New connection from 172.22.0.1:53626 on port 1883.
+1704293620: New connection from 172.22.0.1:53628 on port 1883.
+1704293620: New connection from 172.22.0.1:53630 on port 1883.
+1704293620: New client connected from 172.22.0.1:53626 as mymqtt-355714663742586 (p2, c0, k60).
+1704293620: New client connected from 172.22.0.1:53628 as mymqtt-355533723198575 (p2, c0, k60).
+1704293620: New client connected from 172.22.0.1:53630 as mymqtt-355714142032201 (p2, c0, k60).
+1704293649: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293649: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293651: New connection from 172.22.0.1:53712 on port 1883.
+1704293651: New connection from 172.22.0.1:53714 on port 1883.
+1704293651: New client connected from 172.22.0.1:53712 as mymqtt-355714847796740 (p2, c0, k60).
+1704293651: New client connected from 172.22.0.1:53714 as mymqtt-355715025956509 (p2, c0, k60).
+1704293709: Client mymqtt-356038957977913 has exceeded timeout, disconnecting.
+1704293711: New connection from 172.22.0.1:53830 on port 1883.
+1704293711: New client connected from 172.22.0.1:53830 as mymqtt-356038957977913 (p5, c1, k60).
+1704293715: Client mymqtt-355714663742586 has exceeded timeout, disconnecting.
+1704293715: Client mymqtt-355533723198575 has exceeded timeout, disconnecting.
+1704293715: Client mymqtt-355714142032201 has exceeded timeout, disconnecting.
+1704293725: New connection from 172.22.0.1:53862 on port 1883.
+1704293725: New connection from 172.22.0.1:53864 on port 1883.
+1704293725: New connection from 172.22.0.1:53866 on port 1883.
+1704293725: New client connected from 172.22.0.1:53862 as mymqtt-355714142032201 (p2, c0, k60).
+1704293725: New client connected from 172.22.0.1:53864 as mymqtt-355714663742586 (p2, c0, k60).
+1704293725: New client connected from 172.22.0.1:53866 as mymqtt-355533723198575 (p2, c0, k60).
+1704293745: Client mymqtt-355714847796740 has exceeded timeout, disconnecting.
+1704293745: Client mymqtt-355715025956509 has exceeded timeout, disconnecting.
+1704293746: New connection from 172.22.0.1:53926 on port 1883.
+1704293746: New connection from 172.22.0.1:53928 on port 1883.
+1704293746: New client connected from 172.22.0.1:53926 as mymqtt-355714847796740 (p2, c0, k60).
+1704293746: New client connected from 172.22.0.1:53928 as mymqtt-355715025956509 (p2, c0, k60).
