@@ -1,15 +1,13 @@
 # sti-iot22-23
+Ni kan ta och göra en Fork från det här repositoriet för att komma igång.
 
-Kopiera project1 och döp mappen till ert projekt namn.
+Döp om project1 o till ert projekt namn.
 
-/project1
+/ditt_projektnamn
   /backend
   /esp32
   /frontend
-/ditt_project
-  /backend
-  /esp32
-  /frontend
+
 
 Under backend lägger ni er server lösning
 Under frontend lägger ni er frontend lösning
